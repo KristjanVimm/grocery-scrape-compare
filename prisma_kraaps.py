@@ -7,7 +7,7 @@ from urllib.request import urlopen
 
 # scrapes information about food products from prisma
 
-dt = datetime.now()
+dt = datetime.now() # prints the current time in the beginning and in the end to see, how fast the program is
 print(dt)
 file = 'prisma'+dt.strftime('%m')+'.'+dt.strftime('%d')
 url = 'https://www.prismamarket.ee'
