@@ -17,9 +17,9 @@ def write_to_file(raw_info):
     write_file.close()
 
 
-def get_discount_price(html_first, html_second, def_discount_type):
+def get_discount_price(product, html_first, html_second, def_discount_type):
     separate_price = 'NaN'
-    is_discount = toode.find(class_=html_first)
+    is_discount = product.find(class_=html_first)
     if is_discount is not None:
         product_old_price = is_discount.find(class_=html_second)
         if product_old_price is not None:
@@ -47,10 +47,10 @@ for i in range(1, 2):
         product_info = toode.findChildren()[0].get('data-gtm-eec-product')[1:-18]
         product_info = product_info.replace(',"', ';"')
         discount_type = 'regular'
-        old_price = get_discount_price('card__price-wrapper -has-discount', 'old-price-tag card__old-price', discount_type)
+        old_price = get_discount_price(toode, 'card__price-wrapper -has-discount', 'old-price-tag card__old-price', discount_type)
         if old_price == 'NaN':
             discount_type = 'loyalty'
-            old_price = get_discount_price('price-badge', 'price-badge__price', discount_type)
+            old_price = get_discount_price(toode, 'price-badge', 'price-badge__price', discount_type)
         if old_price == 'NaN':
             discount_type = ''
         new_name = '"'+toode.find(class_='card__name').get_text()+'"'
