@@ -57,7 +57,7 @@ for i in range(1, 2):
         str_beg = product_info.find(':', 6) + 1
         str_end = product_info.find('"', str_beg+1)
         old_name = product_info[str_beg:str_end+1]
-        product_info = product_info.replace(old_name, new_name) # to get dotted letters too
+        product_info = product_info.replace(old_name, new_name)  # to get dotted letters too
         if discount_type == 'loyalty':
             loyalty_price = old_price
             old_price_index = product_info.find(':', len(product_info)-9)

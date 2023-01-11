@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22305e0e-6abf-4e76-b262-678b2c94d128" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/prisma_frames/frame_prisma01.11.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prisma_scrapes/scrape_prisma01.11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rimi_frames/frame_rimi01.11.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rimi_scrapes/scrape_rimi01.11.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/prisma_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/prisma_frame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/prisma_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/prisma_scrape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/rimi_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/rimi_frame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/rimi_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/rimi_scrape.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +15,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="17429fb5-83dd-45f0-a87c-c7bcb315d31b" />
+        <option name="url" value="https://github.com/KristjanVimm/grocery-scrape-compare.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/code/prisma_frame.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/code/prisma_scrape.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/code/rimi_frame.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/code/rimi_scrape.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +45,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RunManager" selected="Python.prisma_frame">
