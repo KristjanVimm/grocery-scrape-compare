@@ -4,8 +4,20 @@ import random
 import time
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
+import os
 
 # scrapes information about food products from prisma
+
+
+def write_to_file(all_info_list):
+    all_info_str = ''.join(all_info_list)
+    all_info_str.replace(' &amp; ', '&')
+    all_info_str.replace('&amp;', '&')
+    path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'prisma_scrapes', 'scrape_' + file + '.txt'))
+    into_file = open(path, 'w', encoding="UTF_8")
+    into_file.write(all_info_str)
+    into_file.close()
+
 
 dt = datetime.now() # prints the current time in the beginning and in the end to see, how fast the program is
 print(dt)
@@ -16,14 +28,14 @@ main_page = urlopen(url+'/products/selection')
 main_soup = BeautifulSoup(main_page, "html.parser")
 product_groups = main_soup.findAll('a', class_="js-category-item", attrs={"data-category-id": True})
 
-dict_groupcodes = {}
+# dict_groupcodes = {}
+#
+# for group in product_groups:
+#     dict_groupcodes[group["href"][-5:]] = group.get_text().strip()
 
-for group in product_groups:
-    dict_groupcodes[group["href"][-5:]] = group.get_text().strip()
+all_info = []
 
-all_info = ""
-
-j = 0
+testing_index = 0
 
 country_names = ['eesti', 'itaalia', 'läti', 'leedu', 'soome', 'hispaania', 'holland', 'iisrael', 'lav',
                  'kreeka', 'costa rica', 'aserbaidžaan', 'malaisia', 'brasiilia', 'usbekistan', 'poola',
@@ -34,7 +46,7 @@ for group in product_groups:
     group_page = urlopen(url+group_link)
     group_soup = BeautifulSoup(group_page, "html.parser")
     product_subgroups = group_soup.findAll('a', class_="js-category-item", attrs={"data-category-id": True})
-    seconds = random.randrange(4, 8)
+    seconds = random.randrange(3, 7)
     print("let's wait " + str(seconds) + " seconds")
     time.sleep(seconds)
     for subgroup in product_subgroups:
@@ -66,23 +78,16 @@ for group in product_groups:
                     old_price = "NaN"
                 category = group.get_text().strip()+","+subgroup.get_text().strip()
                 information = [EAN_code, name, category, price, old_price]
-                all_info = all_info+";".join(information)+"\n"
+                all_info.append(";".join(information)+"\n")
             time.sleep(1)
-        seconds = random.randrange(4, 8)
+        seconds = random.randrange(3, 7)
         print("now let's wait " + str(seconds) + " seconds")
         time.sleep(seconds)
-        j += 1
-        if j % 40 == 0:
-            print('kirjutame faili?')
-            into_file = open("C:/Users/krist/PycharmProjects/prisma/kraapsud/kraap_" + file +
-                             ".txt", "w", encoding="UTF_8")
-            into_file.write(all_info)
-            into_file.close()
+        testing_index += 1
+        if testing_index % 2 == 0:
+            print('writing into file')
+            write_to_file(all_info)
 
-all_info.replace(' &amp; ', '&')
-all_info.replace('&amp;', '&')
-into_file = open("C:/Users/krist/PycharmProjects/prisma/kraapsud/kraap_" + file + ".txt", "w", encoding="UTF_8")
-into_file.write(all_info)
-into_file.close()
+write_to_file(all_info)
 
 print(datetime.now())

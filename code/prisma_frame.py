@@ -1,24 +1,18 @@
 
 import pandas as pd
+import os
 
-# jätab alles toidukaubad
+# leaves only the relevant product groups and creates a .csv file
 
-file = "prisma01.05"
+file = "prisma01.11"
 
-df = pd.read_csv("C:/Users/krist/PycharmProjects/prisma/kraapsud/kraap_"
-                 + file + ".txt", header=None, sep=';')
+path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
+
+df = pd.read_csv(os.path.join(path, 'prisma_scrapes', 'scrape_' + file + '.txt'), header=None, sep=';')
 
 df.columns = ['EAN', 'desc.', 'category', 'price', 'old_price']
 
 unwanted_cat = ("Kosmeetika", "Hügieen", "Kodu", "Köök")
 df = df[False == df.category.str.startswith(unwanted_cat)]
 
-for group in df.category.unique():
-    print(group)
-    current_category = df[df.category.str.startswith(group)]
-    print(current_category.shape)
-    # print(current_category.price.mean())
-    # print(current_category.price.std())
-
-df.to_csv(path_or_buf="C:/Users/krist/PycharmProjects/prisma/frameid/frame_"
-                      + file + ".csv")
+df.to_csv(path_or_buf=os.path.join(path, 'prisma_frames', 'frame_' + file + ".csv"))
