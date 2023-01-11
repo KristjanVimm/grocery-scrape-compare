@@ -1,0 +1,146 @@
+4740125536096;GEFILUS, Maitsestamata jogurt 2,5%, 380 g;Piim,Jogurt;1.49;NaN
+4740125535815;ALMA, Muah! rukkileiva-kaneeli koorejogurt, 380 g;Piim,Jogurt;1.49;NaN
+4742231004049;SAARE, Mango jogurtikreem, 400 g;Piim,Jogurt;1.45;NaN
+4740065013237;EMMA, Jäätisemaitseline jogurt šokolaadiriisikuulidega, 145 g;Piim,Jogurt;0.99;NaN
+4740125539059;ALMA, Šokolaadirõngastega jogurt, 150 g;Piim,Jogurt;0.79;0.99
+4740125539042;ALMA, Mandlitükkide ja šokolaadiga jogurt, 150 g;Piim,Jogurt;0.79;0.99
+5900643029831;ACTIVIA, Vaarika-granaatõuna joogijogurt, 300 g;Piim,Jogurt;1.15;NaN
+4740113035631;FARMI, Kreeka jogurt 10%, 370 g;Piim,Jogurt;1.55;NaN
+4740125510072;ALMA, Banaani-maasika joogijogurt, 1 kg;Piim,Jogurt;0.89;NaN
+4740125521023;ALMA, Metsmaasikajogurt, 1 kg;Piim,Jogurt;1.89;NaN
+4740036009238;TERE, LaCrema maitsestamata jogurt, 380 g;Piim,Jogurt;1.25;NaN
+40338576;Zottis puuviljadega piimadessert, 115 g;Piim,Jogurt;0.45;NaN
+4740113034283;FARMI, Koorene jogurt mustade kirssidega, 400 g;Piim,Jogurt;1.19;1.45
+4002334107673;MÖVENPICK, Koorejogurt, erinevad maitsed, 150 g;Piim,Jogurt;0.99;NaN
+4740125521108;ALMA, Maitsestamata jogurt 2,5%, 1 kg;Piim,Jogurt;1.85;NaN
+4740125536171;GEFILUS, Virsiku-papaia jogurt, 380 g;Piim,Jogurt;1.49;NaN
+4751008970500;Activia jogurt 4x120g, kirsi;Piim,Jogurt;2.35;NaN
+5410146410581;ACTIMEL, Jogurtijook 8x100g, metsamarja;Piim,Jogurt;2.99;3.89
+4014500059617;ZOTT, Koorejogurt, erinevad maitsed, 150 g;Piim,Jogurt;0.95;NaN
+4740113034276;FARMI, Koorene mustikajogurt, 400 g;Piim,Jogurt;1.19;1.45
+4740036009795;HELLUS, Metsamarja jogurtijook, 4 x 100 g;Piim,Jogurt;1.99;NaN
+4751008970494;Activia jogurt 4x120g, maasika;Piim,Jogurt;2.35;NaN
+4002334117542;MÖVENPICK, Koorejogurt, erinevad maitsed, 150 g;Piim,Jogurt;0.99;NaN
+4740125536164;GEFILUS, Mustikajogurt, 380 g;Piim,Jogurt;1.49;NaN
+4751008971026;ACTIMEL, Jogurtijook 8x100g, maasika;Piim,Jogurt;2.99;3.89
+4743135000755;PAJUMÄE TALU, Maitsestamata mahejogurt, 250 ml;Piim,Jogurt;0.85;NaN
+4740036009818;HELLUS, Maasika jogurtijook, 4 x 100 g;Piim,Jogurt;1.99;NaN
+47500884;ACTIMEL, Jogurtijook 4x100g, maasika;Piim,Jogurt;2.19;NaN
+47500914;ACTIMEL, Jogurtijook 4x100g, metsamarja;Piim,Jogurt;2.19;NaN
+47500891;ACTIMEL, Jogurtijook 4x100g, puuvilja;Piim,Jogurt;2.19;NaN
+6414893096097;RAINBOW, Ökoloogiliselt hapendatud sojatoode, 500 g;Piim,Jogurt;1.79;NaN
+59058649;Fantasia koorene jogurt kookospallidega 98g;Piim,Jogurt;0.75;NaN
+4740113091415;FARMI, Köögi skyr, 400 g;Piim,Jogurt;1.99;NaN
+4740125531206;ALMA, Maitsestamata kreeka jogurt, 180 g;Piim,Jogurt;0.89;NaN
+4740125582000;ALMA, Mango-maasika kreeka jogurtijook, 275 g;Piim,Jogurt;0.89;1.09
+4740125525243;ALMA, Mango joogijogurt, 900 g;Piim,Jogurt;1.49;NaN
+4740036013167;TERE, Aprikoosimoosi ja jõhvikamüsliga kreeka jogurt, 150 g;Piim,Jogurt;1.29;NaN
+4740036013150;TERE, Vaarikamoosi ja jõhvikamüsliga kreeka jogurt, 150 g;Piim,Jogurt;1.29;NaN
+4740036013143;TERE, Mustikamoosi ja jõhvikamüsliga kreeka jogurt, 150 g;Piim,Jogurt;1.29;NaN
+7394376616068;OATLY, Hapendatud maitsestamata kaeravahepala, 1 l;Piim,Jogurt;3.29;NaN
+4740036013280;HELLUS, Metsamarjajogurt, ME-3 bakteriga, 350 g;Piim,Jogurt;1.35;NaN
+5900643038048;ACTIMEL, Jogurtijook 12x100g, maasika-mustika;Piim,Jogurt;5.49;NaN
+4740218002323;NOPRI, Mustika-maasikasmuuti, 300 g;Piim,Jogurt;1.19;NaN
+5411188121213;ALPRO, Maitsestamata sojatoode, 400 g;Piim,Jogurt;2.39;NaN
+6415712614485;KOTIMAISTA, Maitsestamata jogurt, 1 kg;Piim,Jogurt;1.39;NaN
+4740125536232;GEFILUS, Mango-banaani-chia jogurt, 380 g;Piim,Jogurt;1.49;NaN
+4740036013709;EMMA, Jäätisemaitseline jogurt kommidega, 145 g;Piim,Jogurt;0.99;NaN
+4740125582130;VALIO PROFEEL, Metsamarja proteiinijogurtijook, 275 g;Piim,Jogurt;1.79;NaN
+4740125582048;ALMA, Metsmaasika kreeka jogurtijook, 275 g;Piim,Jogurt;0.89;1.09
+4740036013884;HELLUS, Mango-chia jogurt, ME-3 bakteriga, 350 g;Piim,Jogurt;1.35;NaN
+4740125521214;ALMA, Maasika-mustika jogurt, 1 kg;Piim,Jogurt;1.89;NaN
+4740125532449;VALIO PROFEEL, Creme brulee maitseline jogurt, 200 g;Piim,Jogurt;1.15;NaN
+4740218002545;NOPRI, Punase rabarberi jogurt, 300 ml;Piim,Jogurt;1.19;NaN
+6414893148895;RAINBOW, Pirni-vanillijogurt, 150 g;Piim,Jogurt;0.39;NaN
+6414893148918;RAINBOW, Puuviljajogurt, 150 g;Piim,Jogurt;0.39;NaN
+4740125532234;ALMA, Maasikatega jogurtimaius, 200 g;Piim,Jogurt;1.05;NaN
+4740125532241;ALMA, Mangoga jogurtimaius, 200 g;Piim,Jogurt;1.05;NaN
+4740125582147;VALIO PROFEEL, Proteiinijogurtijook  troopiline, 275 g;Piim,Jogurt;1.79;NaN
+4740113093426;TERE, AB-jogurt mustika 150 g, laktoosivaba;Piim,Jogurt;0.79;NaN
+4740113093440;TERE, AB-jogurt banaani 150 g, laktoosivaba;Piim,Jogurt;0.79;NaN
+4740125535419;ALMA, Täispiimajogurt muraka, 350 g;Piim,Jogurt;1.49;NaN
+4740125535426;ALMA, Täispiimajogurt murel, 350 g;Piim,Jogurt;1.49;NaN
+4740125582765;ALMA, Jogurtismuuti maasika-virsiku-chia,  275 g;Piim,Jogurt;1.09;NaN
+4742231005039;SAARE, Jogurtijook Sipsik ploomi- jäätisemaitseline 250 g;Piim,Jogurt;1.09;NaN
+4742231005008;SAARE ÖKO, Maitsestamata mahejogurt  4% 380 g;Piim,Jogurt;1.49;NaN
+4740036014287;TERE, Kreeka jogurt maitsestamata, laktoosivaba 350 g;Piim,Jogurt;1.69;NaN
+4750072515815;LIISU, Jogurti Shake Plombiiri 250 g;Piim,Jogurt;0.99;NaN
+4750072515822;LIISU, Jogurti Shake ploomi 250 g;Piim,Jogurt;0.99;NaN
+4740125525144;ALMA, Joogijogurt maasika-nektariini 900 g;Piim,Jogurt;1.49;NaN
+4740125581201;ALMA, Jogurtijook metsmaasika, laktoosivaba 4x100 g;Piim,Jogurt;1.99;NaN
+4740125581218;ALMA, Jogurtijook vaarika-mustika, laktoosivaba 4x100 g;Piim,Jogurt;1.99;NaN
+5900643043318;Activia jogurt 4x120g, metsamarja;Piim,Jogurt;2.35;NaN
+4740125523096;VALIO GEFILUS, Joogijogurt Harmoonia maasika-pohla laktoosivaba 1kg;Piim,Jogurt;1.39;1.99
+4740125582062;ALMA, Vaarika-virsiku kreeka jogurtijook, 275g;Piim,Jogurt;0.89;1.05
+4740125582772;ALMA, Ploomi-jäätisemaitseline jogurtijook, 275 g;Piim,Jogurt;1.09;NaN
+5900643043417;ACTIMEL, Jogurtijook 4x100g, õuna-kiivi;Piim,Jogurt;2.19;NaN
+4740113096892;FARMI, Mango joogijogurt, 900g;Piim,Jogurt;2.19;NaN
+4740113096908;FARMI, Maasika-arbuusi joogijogurt, 900g;Piim,Jogurt;2.19;NaN
+4740036015598;TERE, Mustasõstrajogurt, 350g;Piim,Jogurt;1.35;NaN
+4742231005213;SIPSIK, Jäätisemaitseline AB-jogurt šokolaadiriisipallidega, 165 g;Piim,Jogurt;1.15;NaN
+4740125581133;VALIO GEFILUS, Kirsi-aroonia jogurtijook, 4x100g;Piim,Jogurt;1.79;NaN
+4740125581232;ALMA, Jogurtijook metsmaasika, laktoosivaba, 8x100g;Piim,Jogurt;3.39;NaN
+4740125537208;ALMA, Virsiku-chia laktoosivaba jogurt, 150 g;Piim,Jogurt;0.89;NaN
+4740125537215;ALMA, Ahjuõuna-kaerahelbe laktoosivaba jogurt, 150 g;Piim,Jogurt;0.89;NaN
+4740125537222;ALMA, Metsamarja-linaseemne laktoosivaba jogurt, 150 g;Piim,Jogurt;0.89;NaN
+4740036006275;TERE, Metsmaasikamaitseline joogijogurt, 1 kg;Piim,Jogurt;1.15;NaN
+4740036015857;HI!FIBER, Kiudainetega AB-jogurt kookose ja apelsiniga, 150 g;Piim,Jogurt;0.89;NaN
+4740036015550;FIT!, Vaarika-mustika proteiinijogurt tuubis, 150 g;Piim,Jogurt;1.19;NaN
+4740036015543;FIT!, Maasika proteiinijogurt tuubis, 150 g;Piim,Jogurt;1.19;NaN
+4740036015529;EMMA, Laktoosivaba banaanijogurt tuubis, 110 g;Piim,Jogurt;0.65;0.85
+4740036015512;EMMA, Laktoosivaba mustikajogurt tuubis, 110 g;Piim,Jogurt;0.65;0.85
+4740036015505;EMMA, Laktoosivaba maasikajogurt tuubis, 110 g;Piim,Jogurt;0.65;0.85
+5411188128649;DANONE ALPRO, Alpro Greek Style maasika sojatoode, 400g;Piim,Jogurt;2.39;NaN
+4740125523126;VALIO GEFILUS, Joogijogurt mustsõstra-basiiliku-mündi, laktoosivaba, 1 kg;Piim,Jogurt;1.39;1.99
+4740125536256;GEFILUS, Maasika-Yuzu jogurt, laktoosivaba, 380 g;Piim,Jogurt;1.49;NaN
+5900643047101;ACTIVIA, Metsamarja joogijogurt, 280 g;Piim,Jogurt;1.15;NaN
+4740125539080;ALMA, Müsli ja šokolaadiküpsistega laktoosivaba jogurt, 150 g;Piim,Jogurt;0.79;0.99
+4740113097080;FARMI, Ananassi-virsiku jogurt, puuviljasuhkruga, 900 g;Piim,Jogurt;2.19;NaN
+4750072014240;BIO, Jogurt kirsi, 350 g;Piim,Jogurt;1.49;NaN
+4750072014257;BIO, Jogurt mustika, 350 g;Piim,Jogurt;1.49;NaN
+5411188133759;ALPRO, Ananassi-passioni sojatoode, 400 g;Piim,Jogurt;2.59;NaN
+6430015538801;FAZER, Kaeravahepala mustika, gluteenivaba, 150 g;Piim,Jogurt;0.85;NaN
+6430015538825;FAZER, Kaeravahepala maasika, gluteenivaba, 150 g;Piim,Jogurt;0.85;NaN
+7340191127104;RAINBOW, Kreeka stiilis laktoosivaba jogurt 10%, 500 g;Piim,Jogurt;1.45;NaN
+4742231005206;SIPSIKU jäätisemaitseline AB-jogurt šokolaadikommidega 165g;Piim,Jogurt;1.15;NaN
+4742231005305;Saare sidruni jogurtikreem laktoosivaba 400g;Piim,Jogurt;1.45;NaN
+4740113097141;FARMI Koorene jogurt põldmarjadega 150g;Piim,Jogurt;0.89;NaN
+4740113019150;FARMI Koorene jogurt mandariini-mee 150g;Piim,Jogurt;0.89;NaN
+4740113097134;FARMI Maasika-arbuusi jogurt 130g;Piim,Jogurt;0.85;NaN
+4740113097127;FARMI Puuviljasuhkruga Mangojogurt 130g;Piim,Jogurt;0.85;NaN
+6430015537286;Fazer Aito maitsestamata kaeratoode 400g;Piim,Jogurt;2.49;NaN
+5411188118121;Alpro hapendatud sojatoode 500g;Piim,Jogurt;2.19;NaN
+4740125535440;Alma täispiimajogurt metsmaasika 350g;Piim,Jogurt;1.49;NaN
+6408430400034;Valio Oddlygood kaeravahepala mustika-vanilli 150g;Piim,Jogurt;0.89;NaN
+6408430400041;Valio Oddlygood kaeravahepala kirsi 150g;Piim,Jogurt;0.89;NaN
+5900643032688;ACTIVIA, Maasika-kiivi joogijogurt, 300 g;Piim,Jogurt;1.15;NaN
+4740125535839;ALMA, Muah! creme-brulee koorejogurt, 380 g;Piim,Jogurt;1.49;NaN
+6414893096172;KOTIMAISTA, Bulgaaria jogurt, 150 g;Piim,Jogurt;0.79;NaN
+4740113090272;FARMI, Koorene mustikajogurt, 1 kg;Piim,Jogurt;2.79;NaN
+4740113090289;FARMI, Koorene kirsijogurt, 1 kg;Piim,Jogurt;2.69;NaN
+4740125525236;ALMA, Metsamarja joogijogurt,  900 g;Piim,Jogurt;1.49;NaN
+4740125535853;ALMA, Muah! stracciatella koorejogurt, 380 g;Piim,Jogurt;1.49;NaN
+4740125582703;ALMA, Banaani-maasika-kiivi jogurtismuuti, 275 g;Piim,Jogurt;1.09;NaN
+59055853;DANONKI, Maasikajogurt tuubis, 70g;Piim,Jogurt;0.75;NaN
+4742231004551;SAARE, Kreeka jogurt 10%, 380 g;Piim,Jogurt;1.55;NaN
+4742231004568;SAARE, Vaarika-granaatõuna jogurtikreem, 400 g;Piim,Jogurt;1.45;NaN
+4740113090722;FARMI, Muraka jogurt, 1kg;Piim,Jogurt;2.39;NaN
+5411188119098;ALPRO, Kookosega sojatoode, 500 g;Piim,Jogurt;2.19;NaN
+4740113091101;FARMI, Mustikatega skyr, 150 g;Piim,Jogurt;1.09;NaN
+4740125582734;ALMA, Maasika-mustika-vaarika jogurtismuuti, 275 g;Piim,Jogurt;1.09;NaN
+4740125531213;ALMA, Kreeka jogurt, 370 g;Piim,Jogurt;1.39;NaN
+59034643;FANTASIA, Koorene jogurt šokolaadipallidega, 100 g;Piim,Jogurt;0.75;NaN
+4740113034269;FARMI, Koorene jogurt "Polka" maasikatega, 400 g;Piim,Jogurt;1.19;1.45
+4740125581065;GEFILUS, Metsamarja jogurtijook, 4 x 100 g;Piim,Jogurt;1.79;NaN
+4740125581089;GEFILUS, Banaani-maasika jogurtijook, 4 x 100 g;Piim,Jogurt;1.79;NaN
+6415712614522;X-TRA, Metsmaasikajogurt, 1 kg;Piim,Jogurt;1.09;NaN
+4740125532401;VALIO PROFEEL, Ahjuõunajogurt, 200 g;Piim,Jogurt;1.15;NaN
+4740113091583;FARMI, Metsamarjajogurt rukkikamaga, 380 g;Piim,Jogurt;1.59;NaN
+4740113091446;FARMI, Virsikutega skyr, 150 g;Piim,Jogurt;1.09;NaN
+6414893095687;RAINBOW, Banaanijogurt, 150 g;Piim,Jogurt;0.39;NaN
+6414893096950;RAINBOW, Mango-apelsinijogurt, 150 g;Piim,Jogurt;0.39;NaN
+6414893148901;RAINBOW, Maasikajogurt, 150 g;Piim,Jogurt;0.39;NaN
+4740125523089;GEFILUS, Maitsestamata jogurt, 1 kg;Piim,Jogurt;1.79;NaN
+4740125532425;VALIO PROFEEL, Maasikajogurt, 200 g;Piim,Jogurt;1.15;NaN
+4740113091453;FARMI, Kirssidega skyr, 150 g;Piim,Jogurt;1.09;NaN
+59005322;DANONKI, Maasika-banaanijogurt tuubis 70G;Piim,Jogurt;0.75;NaN
