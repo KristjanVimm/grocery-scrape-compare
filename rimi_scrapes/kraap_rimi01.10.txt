@@ -1,0 +1,900 @@
+"id":"653703";"name":"Tuletikud Rimi";"category":"10-54-105";"brand":null;"price":0.08;"old_price":NaN;"discount_type":
+"id":"7233518";"name":"Pliiats Centrum sinine tint 1,0mm";"category":"SH-10-55";"brand":null;"price":0.15;"old_price":NaN;"discount_type":
+"id":"7233523";"name":"Pliiats Centrum must tint 1.0 mm";"category":"SH-10-55";"brand":null;"price":0.15;"old_price":NaN;"discount_type":
+"id":"277122";"name":"Mitmeviljakukkel 35g";"category":"SH-6-6";"brand":null;"price":0.18;"old_price":NaN;"discount_type":
+"id":"124854";"name":"Pulgakomm Fazer Muumi 8g";"category":"SH-9-6-11";"brand":null;"price":0.19;"old_price":NaN;"discount_type":
+"id":"808709";"name":"Kohvijook lahustuv 3in1 Rimi 18g";"category":"SH-13-9-47";"brand":null;"price":0.19;"old_price":NaN;"discount_type":
+"id":"267403";"name":"Presspärm Nordic 50g";"category":"SH-13-13-83";"brand":null;"price":0.19;"old_price":NaN;"discount_type":
+"id":"156466";"name":"Kohvijook Jacobs 3in1 mixes 15.2g";"category":"SH-13-9-47";"brand":null;"price":0.22;"old_price":NaN;"discount_type":
+"id":"812163";"name":"Toiduželatiin Rimi Basic 20g";"category":"SH-13-13-80";"brand":null;"price":0.24;"old_price":NaN;"discount_type":
+"id":"7233550";"name":"Pliiats Centrum HB";"category":"SH-10-59";"brand":null;"price":0.25;"old_price":NaN;"discount_type":
+"id":"193845";"name":"Kohv lahustuv 3in1 pruun suhkur Nescafe 16,5g";"category":"SH-13-9-47";"brand":null;"price":0.25;"old_price":NaN;"discount_type":
+"id":"812933";"name":"Pabertaskurätikud Rimi 4-kihiline,1x9tk";"category":"SH-10-22";"brand":null;"price":0.25;"old_price":NaN;"discount_type":
+"id":"7209436";"name":"Kustutuskumm ErichKrause Hybrid";"category":"SH-10-49";"brand":null;"price":0.25;"old_price":NaN;"discount_type":
+"id":"257086";"name":"Kohupiimadessert gl. vanilli Jeppi 38g";"category":"SH-11-2-7";"brand":null;"price":0.25;"old_price":NaN;"discount_type":
+"id":"193835";"name":"Kohvijook lahustuv 2in1 Nescafé 8g";"category":"SH-13-9-47";"brand":null;"price":0.25;"old_price":NaN;"discount_type":
+"id":"193837";"name":"Kohv lahustuv 3in1 Nescafé Classic 16,5g";"category":"SH-13-9-47";"brand":null;"price":0.25;"old_price":NaN;"discount_type":
+"id":"193844";"name":"Kohv lahustuv 3in1 strong Nescafé 17g";"category":"SH-13-9-47";"brand":null;"price":0.25;"old_price":NaN;"discount_type":
+"id":"194437";"name":"Kakaojook Opti Start Nesquik 13,5 g";"category":"SH-13-5";"brand":null;"price":0.25;"old_price":NaN;"discount_type":
+"id":"198508";"name":"Kohvijook lahustuv karamel. Jacobs 3in1 16,9g";"category":"SH-13-9-47";"brand":null;"price":0.26;"old_price":NaN;"discount_type":
+"id":"172940";"name":"Kohvijook lahustuv 2in1 Jacobs 14g";"category":"SH-13-9-47";"brand":null;"price":0.27;"old_price":NaN;"discount_type":
+"id":"175906";"name":"Kohvijook lahustuv Cafe Latte Jacobs 12,5g";"category":"SH-13-9-47";"brand":null;"price":0.27;"old_price":NaN;"discount_type":
+"id":"7231049";"name":"Vihik ruuduline 12 lehte AW22";"category":"SH-10-45";"brand":null;"price":0.29;"old_price":NaN;"discount_type":
+"id":"7231054";"name":"Vihik jooneline 12 lehte AW22";"category":"SH-10-7-25";"brand":null;"price":0.29;"old_price":NaN;"discount_type":
+"id":"7248403";"name":"Pastapliiats EK NeNeo Cocktai sinine AW22";"category":"SH-10-55";"brand":null;"price":0.29;"old_price":NaN;"discount_type":
+"id":"7248417";"name":"Harilik pliiats EK kustu.kumm Extra AW21";"category":"SH-10-59";"brand":null;"price":0.29;"old_price":NaN;"discount_type":
+"id":"101372";"name":"Närimiskommid Red Band Tutti Frutti 15g";"category":"SH-9-3-2";"brand":null;"price":0.29;"old_price":NaN;"discount_type":
+"id":"812162";"name":"Sidrunhape Rimi Basic 30g";"category":"SH-13-13-81";"brand":null;"price":0.3;"old_price":NaN;"discount_type":
+"id":"814058";"name":"Kuivpärm Rimi Basic 12g";"category":"SH-13-13-83";"brand":null;"price":0.31;"old_price":NaN;"discount_type":
+"id":"811931";"name":"Kanalihamaitselised kiirnuudlid Rimi Basic 50";"category":"SH-13-8-39";"brand":null;"price":0.31;"old_price":NaN;"discount_type":
+"id":"812182";"name":"Veiseliham. kiirnuudlid Rimi Basic 50g";"category":"SH-13-8-39";"brand":null;"price":0.31;"old_price":NaN;"discount_type":
+"id":"7051176";"name":"Vihik KPF pildiga 7x7 ruuduline 12 lehte";"category":"SH-10-45";"brand":null;"price":0.32;"old_price":NaN;"discount_type":
+"id":"784328";"name":"Abi-kaldjoonega vihik 12 lehte (EE&LV)";"category":"SH-10-7-25";"brand":null;"price":0.32;"old_price":NaN;"discount_type":
+"id":"7209438";"name":"Pastapliiats ErichKrause 0,7mm sinine";"category":"SH-10-55";"brand":null;"price":0.32;"old_price":NaN;"discount_type":
+"id":"400279";"name":"Vihik KPFactory ruuduline 12lehte";"category":"SH-10-45";"brand":null;"price":0.32;"old_price":NaN;"discount_type":
+"id":"400284";"name":"Vihik KPFactory jooneline 12 lehte";"category":"SH-10-7-25";"brand":null;"price":0.32;"old_price":NaN;"discount_type":
+"id":"163121";"name":"Mesi Korio 25g";"category":"SH-13-10-53";"brand":null;"price":0.32;"old_price":NaN;"discount_type":
+"id":"812161";"name":"Vanilliinsuhkur Rimi Basic 35g";"category":"SH-13-13-81";"brand":null;"price":0.34;"old_price":NaN;"discount_type":
+"id":"7231178";"name":"Liimipulk 15g AW22";"category":"SH-10-52";"brand":null;"price":0.35;"old_price":NaN;"discount_type":
+"id":"7233510";"name":"Geelpliiats Centrum sinine 0,7mm";"category":"SH-10-56";"brand":null;"price":0.35;"old_price":NaN;"discount_type":
+"id":"7186172";"name":"Klammerdaja täide ErichKrause Nr.10";"category":"SH-10-7-38";"brand":null;"price":0.35;"old_price":NaN;"discount_type":
+"id":"811966";"name":"Küpsised Rimi Basic Klassik 155g";"category":"SH-9-5-5";"brand":null;"price":0.35;"old_price":NaN;"discount_type":
+"id":"269082";"name":"Kohuke vanilli Karums 45g";"category":"SH-11-2-7";"brand":null;"price":0.35;"old_price":0.45;"discount_type":regular
+"id":"113612";"name":"Nätsukomm erinevad maitsed Mamba 26,5g";"category":"SH-9-3-2";"brand":null;"price":0.35;"old_price":NaN;"discount_type":
+"id":"1358802";"name":"Allikavesi karboniseerimata Rimi Kids 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.35;"old_price":NaN;"discount_type":
+"id":"1358811";"name":"Allikavesi karboniseeritud Rimi 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.35;"old_price":NaN;"discount_type":
+"id":"1358820";"name":"Allikavesi karboniseerimata Rimi 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.35;"old_price":NaN;"discount_type":
+"id":"812160";"name":"Jahvatatud must pipar Rimi Basic 15g";"category":"SH-13-12-75";"brand":null;"price":0.36;"old_price":NaN;"discount_type":
+"id":"811336";"name":"Kohuke karamelliglasuuriga Rimi 38g";"category":"SH-11-2-7";"brand":null;"price":0.37;"old_price":NaN;"discount_type":
+"id":"811346";"name":"Kohuke küpsiste ja želeetükkidega Rimi 38g";"category":"SH-11-2-7";"brand":null;"price":0.37;"old_price":NaN;"discount_type":
+"id":"811936";"name":"Köögiviljamaitselised kiirnuudlid Rimi Basic";"category":"SH-13-8-39";"brand":null;"price":0.37;"old_price":NaN;"discount_type":
+"id":"987102";"name":"Kohuke maasika Karums 45g";"category":"SH-11-2-7";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"7269191";"name":"Harilik pliiats kustutuskumm EK 2x2 HB AW22";"category":"SH-10-59";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"128630";"name":"Kummikommid Red Band Tutti Frutti Hearts 15g";"category":"SH-9-3-2";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"624152";"name":"Joonlaud plastik 20cm";"category":"SH-10-47";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"812630";"name":"Õunamahlajook Rimi 200ml";"category":"SH-3-8-2";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"1003246";"name":"Kohvijook lahustuv cappuccino Nescafe 15g";"category":"SH-13-9-47";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"812372";"name":"Mahlajook Rimi apelsini,banaani,virsiku 200ml";"category":"SH-3-8-2";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"812378";"name":"Mahlajook Rimi multipuuvilja 200ml";"category":"SH-3-8-2";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"805782";"name":"Kassisööt Purrrfect linnul. tükid kastm. 100g";"category":"SH-7-1-1";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"812371";"name":"Mahlajook Rimi virsiku ja viinamarja 0,2l";"category":"SH-3-8-2";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"811953";"name":"Tomati-kiirsupp Rimi Express nuudlitega 21g";"category":"SH-13-8-41";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"811957";"name":"Kiirsupp Rimi Express kana ja nuudlitega 14g";"category":"SH-13-8-41";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"949418";"name":"Kohupiimadessert valge gl. Jeppi 38g";"category":"SH-11-2-7";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"257082";"name":"Kakaodessert gl. šokolaadi Jeppi 38g";"category":"SH-11-2-7";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"257084";"name":"Kohupiimadessert gl. vaarika Jeppi 38g";"category":"SH-11-2-7";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"269083";"name":"Kohuke šokolaadi Karums 45g";"category":"SH-11-2-7";"brand":null;"price":0.39;"old_price":0.49;"discount_type":regular
+"id":"269085";"name":"Kohuke karamelli Karums 45g";"category":"SH-11-2-7";"brand":null;"price":0.39;"old_price":0.49;"discount_type":regular
+"id":"196749";"name":"Maasikajook Limpa 0,25l";"category":"SH-3-8-2";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"101375";"name":"Vahvlibatoon Fazer Suffeli 21g";"category":"SH-9-9-21";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"1350162";"name":"Joogivesi Saaremaa 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"269071";"name":"Kohuke kookose Karums 45g";"category":"SH-11-2-7";"brand":null;"price":0.39;"old_price":0.54;"discount_type":regular
+"id":"7269121";"name":"Pastapliiats keeratav TROPIC AW22";"category":"SH-10-55";"brand":null;"price":0.39;"old_price":NaN;"discount_type":
+"id":"804290";"name":"Tee ürdi kummeli Rimi Basic 20g";"category":"SH-13-17-98";"brand":null;"price":0.41;"old_price":NaN;"discount_type":
+"id":"809242";"name":"Karamellid münt Rimi Basic 100g";"category":"SH-9-3-3";"brand":null;"price":0.41;"old_price":NaN;"discount_type":
+"id":"937834";"name":"Mangokohuke Karums 45g";"category":"SH-11-2-7";"brand":null;"price":0.42;"old_price":0.54;"discount_type":regular
+"id":"812875";"name":"Kohvikoor Rimi Basic 10% 200ml";"category":"SH-11-5-24";"brand":null;"price":0.43;"old_price":NaN;"discount_type":
+"id":"804228";"name":"Makaron Knees-sarveke Rimi Basic 400g";"category":"SH-13-14-20";"brand":null;"price":0.43;"old_price":NaN;"discount_type":
+"id":"811315";"name":"Rohelised oliivid Rimi Basic kivid. 180g/70g";"category":"SH-13-10-56";"brand":null;"price":0.43;"old_price":NaN;"discount_type":
+"id":"995341";"name":"Mini lihapirukas Cannelle 20g";"category":"SH-6-6";"brand":null;"price":0.43;"old_price":NaN;"discount_type":
+"id":"147406";"name":"Lahustuv pärm Dr.Oetker 7g";"category":"SH-13-13-83";"brand":null;"price":0.44;"old_price":NaN;"discount_type":
+"id":"1350294";"name":"Vesi gaasiga Saaremaa 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.44;"old_price":NaN;"discount_type":
+"id":"276039";"name":"Kartul pesemata, kg Eesti";"category":"SH-12-1-1";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"7231094";"name":"Vihik ruuduline 18 lehte AW22";"category":"SH-10-45";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"7231095";"name":"Vihik jooneline 18 lehte AW22";"category":"SH-10-7-25";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"7029788";"name":"Kalmuküünal 8tööaeg P-2R punane";"category":"SH-10-9-45";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"482783";"name":"Kalmuküünal 8tööaeg P-2";"category":"SH-10-9-45";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"7249123";"name":"Liimipulk PVP 15g Lite";"category":"SH-10-52";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"812164";"name":"Must pipar Rimi Basic 20g";"category":"SH-13-12-75";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"138796";"name":"Kartulipuder või ja tilliga 5 min. Maggi 35g";"category":"SH-13-8-40";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"138797";"name":"Kartulipuder rõõsakoorega 5 min. Maggi 35g";"category":"SH-13-8-40";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"150324";"name":"Vahukoore tardaine Dr.Oetker 9g";"category":"SH-13-13-79";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"162138";"name":"Nätsukommid hapu õuna Chewits Xtreme 30g";"category":"SH-9-3-2";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"100973";"name":"Nätsukommid maasikamaitselised Chewits 29g";"category":"SH-9-3-2";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"299158";"name":"Dessert Zottis šhokolaadi Zott 115g";"category":"SH-11-2-2";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"299322";"name":"Dessert Zottis vanilje Zott 115g";"category":"SH-11-2-2";"brand":null;"price":0.45;"old_price":NaN;"discount_type":
+"id":"167976";"name":"Müslibatoon maasika ja jogurti Herkuless 25g";"category":"SH-13-3-17";"brand":null;"price":0.46;"old_price":NaN;"discount_type":
+"id":"805800";"name":"Kassisööt Purrrfect loomalihaga 100g";"category":"SH-7-1-1";"brand":null;"price":0.47;"old_price":NaN;"discount_type":
+"id":"805807";"name":"Kassisööt Purrrfect loomalihaga,linnulih,100g";"category":"SH-7-1-1";"brand":null;"price":0.47;"old_price":NaN;"discount_type":
+"id":"805808";"name":"Kassisööt Purrrfect kala lihaga 100g";"category":"SH-7-1-1";"brand":null;"price":0.47;"old_price":NaN;"discount_type":
+"id":"805779";"name":"Müslibatoon metsamarja jogurti Rimi 30g";"category":"SH-13-3-17";"brand":null;"price":0.48;"old_price":NaN;"discount_type":
+"id":"805781";"name":"Müslibatoon jõhvika-vaarika jogurti Rimi 30g";"category":"SH-13-3-17";"brand":null;"price":0.48;"old_price":NaN;"discount_type":
+"id":"805798";"name":"Müslibatoon banaani piimašokololaadi Rimi 30g";"category":"SH-13-3-17";"brand":null;"price":0.48;"old_price":NaN;"discount_type":
+"id":"136947";"name":"Jook maasika-õuna-virsiku 0,2l Tymbark";"category":"SH-3-8-2";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7186201";"name":"Kustukumm SMART & SOFT, kolmnurkne";"category":"SH-10-49";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7233445";"name":"Pastapliiats Trio Tinted 0,7 sinine";"category":"SH-10-55";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7233453";"name":"Pastapliiats Fab smoked 0,7 sinine";"category":"SH-10-55";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7208129";"name":"Pastapliiats Trio 1.0 sinine";"category":"SH-10-55";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7231228";"name":"Pliiatsiteritaja AW22";"category":"SH-10-51";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7231230";"name":"Markerid 113x25, 8mm AW22";"category":"SH-10-53";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7209437";"name":"Harilik pliiats ErichKrause kust.kumm HB";"category":"SH-10-59";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7233514";"name":"Vedel liim Centrum 50ml";"category":"SH-10-52";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"276888";"name":"Rukki-riisipirukas 65g";"category":"SH-6-6";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"290810";"name":"Kaneelirull 65g Rimi pagaritelt";"category":"SH-6-6";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7249133";"name":"Kleeplint 19mmx33m";"category":"SH-10-52";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"298217";"name":"Koorene kohuke toffe Saare 40g";"category":"SH-11-2-7";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"610051";"name":"Noodivihik 12 lehte";"category":"SH-10-7-25";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"934294";"name":"Kohuke laktoosivaba vanilli Saare 40g";"category":"SH-11-2-7";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"268137";"name":"Hea Sai Eesti Pagar 300g";"category":"SH-6-7-22";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"200903";"name":"Peakapsas, kg Eesti";"category":"SH-12-2-8";"brand":null;"price":0.93;"old_price":NaN;"discount_type":
+"id":"198832";"name":"Müslibatoon jogurti&troopili. puuvil. Axa 25g";"category":"SH-13-3-17";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"800756";"name":"Küürimissvamm Marine 3 tk 7x8,5x4,5cm";"category":"SH-10-17";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"202729";"name":"Kohuke mustikamoosiga Tere 43g";"category":"SH-11-2-7";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"196738";"name":"Multijook Limpa 0,25l";"category":"SH-3-8-2";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"804289";"name":"Tee ürdi piparmündi Rimi Basic 20x1,5g";"category":"SH-13-17-98";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"165545";"name":"Jook õuna-virsiku Tymbark Frozen 0,2l";"category":"SH-3-8-2";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"804229";"name":"Makaronid nuudlid Rimi Basic 400g";"category":"SH-13-14-20";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"101019";"name":"Piimašokolaad Kinder Country 24g";"category":"SH-9-9-21";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"7269201";"name":"Pastapliiats EK U-208 Ultra Glide sinine AW22";"category":"SH-10-55";"brand":null;"price":0.49;"old_price":NaN;"discount_type":
+"id":"148171";"name":"Vahvel piima-pähklikreemiga Knoppers 25g";"category":"SH-9-10";"brand":null;"price":0.5;"old_price":NaN;"discount_type":
+"id":"801719";"name":"Küürimissvamm Marine 5 tk 2,6x9,5x6,3cm";"category":"SH-10-17";"brand":null;"price":0.5;"old_price":NaN;"discount_type":
+"id":"200133";"name":"Kohuke Classic Tere 43g";"category":"SH-11-2-7";"brand":null;"price":0.5;"old_price":NaN;"discount_type":
+"id":"811951";"name":"Kiirsupp Rimi Express seente,krutoon. 16g";"category":"SH-13-8-41";"brand":null;"price":0.5;"old_price":NaN;"discount_type":
+"id":"811952";"name":"Kiirsupp Rimi Express kana, krutoonidega 16g";"category":"SH-13-8-41";"brand":null;"price":0.5;"old_price":NaN;"discount_type":
+"id":"149478";"name":"Vanillisuhkur Dr.Oetker 16 g";"category":"SH-13-13-81";"brand":null;"price":0.5;"old_price":NaN;"discount_type":
+"id":"7232792";"name":"Söögiriistade komplekt Rimi Basic";"category":"SH-10-4-11";"brand":null;"price":0.51;"old_price":NaN;"discount_type":
+"id":"760380";"name":"Wc seep Kolorado mere 40g";"category":"SH-10-18-80";"brand":null;"price":0.51;"old_price":NaN;"discount_type":
+"id":"193468";"name":"Kiirkanasupp nuudlitega 5min Maggi 12g";"category":"SH-13-8-41";"brand":null;"price":0.51;"old_price":NaN;"discount_type":
+"id":"194335";"name":"Kiirsupp herne ja krutoonidega Maggi 22g";"category":"SH-13-8-41";"brand":null;"price":0.51;"old_price":NaN;"discount_type":
+"id":"102860";"name":"Šokolaadibatoon Daim 28g";"category":"SH-9-9-21";"brand":null;"price":0.51;"old_price":NaN;"discount_type":
+"id":"1358780";"name":"Allikavesi karboniseerimata Rimi 0,75l";"category":"SH-3-12-8";"brand":null;"price":0.51;"old_price":NaN;"discount_type":
+"id":"428182";"name":"Jalatsipuhastuskäsn gold smart 1 tk";"category":"SH-10-3";"brand":null;"price":0.52;"old_price":NaN;"discount_type":
+"id":"290795";"name":"Kreemisai Rimi pagaritelt 50g";"category":"SH-6-6";"brand":null;"price":0.52;"old_price":NaN;"discount_type":
+"id":"164832";"name":"Jook maasika-õuna Drako 200ml";"category":"SH-3-8-2";"brand":null;"price":0.52;"old_price":NaN;"discount_type":
+"id":"164843";"name":"Jook pirni-õuna Drako 200ml";"category":"SH-3-8-2";"brand":null;"price":0.52;"old_price":NaN;"discount_type":
+"id":"168212";"name":"Jook vaarika-mustika Drako 200ml";"category":"SH-3-8-2";"brand":null;"price":0.52;"old_price":NaN;"discount_type":
+"id":"101280";"name":"Jook õuna Põltsamaa 200ml";"category":"SH-3-8-2";"brand":null;"price":0.52;"old_price":NaN;"discount_type":
+"id":"107728";"name":"Jook apelsini-õuna Põltsamaa 200ml";"category":"SH-3-8-2";"brand":null;"price":0.52;"old_price":NaN;"discount_type":
+"id":"119550";"name":"Mahlajook multi Põltsamaa 200ml";"category":"SH-3-8-2";"brand":null;"price":0.52;"old_price":NaN;"discount_type":
+"id":"974084";"name":"Tarretis tutti-frutti Jänks 150g";"category":"SH-11-2-2";"brand":null;"price":0.53;"old_price":NaN;"discount_type":
+"id":"911229";"name":"Tarretis kirsi Jänks 150g";"category":"SH-11-2-2";"brand":null;"price":0.53;"old_price":NaN;"discount_type":
+"id":"811873";"name":"Koerasööt Nutribalance veise,küülik.100g";"category":"SH-7-2-4";"brand":null;"price":0.53;"old_price":NaN;"discount_type":
+"id":"811874";"name":"Koerasööt Nutribalance kalkunilih. 100g";"category":"SH-7-2-4";"brand":null;"price":0.53;"old_price":NaN;"discount_type":
+"id":"267828";"name":"Kohuke juustukoogi Tere 43g";"category":"SH-11-2-7";"brand":null;"price":0.53;"old_price":NaN;"discount_type":
+"id":"200130";"name":"Kohuke jõhvikamoosiga Tere 43g";"category":"SH-11-2-7";"brand":null;"price":0.53;"old_price":NaN;"discount_type":
+"id":"812078";"name":"Hibiskiõietee Rimi Basic 20 x 1,5g";"category":"SH-13-17-98";"brand":null;"price":0.53;"old_price":NaN;"discount_type":
+"id":"1350165";"name":"Vesi gaasiga Saaremaa 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.53;"old_price":NaN;"discount_type":
+"id":"269157";"name":"Sidrunikohuke Karums 45g";"category":"SH-11-2-7";"brand":null;"price":0.54;"old_price":NaN;"discount_type":
+"id":"200267";"name":"Kohvikoor Alma 10% 200ml";"category":"SH-11-5-24";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"812823";"name":"Riisivahvlid Rimi tom. basiilikuga 25g";"category":"SH-13-1-2";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"812824";"name":"Riisivahvlid Rimi juustuga 25g";"category":"SH-13-1-2";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"219161";"name":"Õun Gala Must võrgus 1kl, kg";"category":"SH-12-5-27";"brand":null;"price":0.83;"old_price":0.89;"discount_type":regular
+"id":"276076";"name":"Porgand, kg Eesti";"category":"SH-12-1-4";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"805780";"name":"Müslibatoon šokolaadi Rimi 30g";"category":"SH-13-3-17";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"122348";"name":"Vilekomm maasikamaitseline Chupa Chups 15g";"category":"SH-9-6-11";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"1350492";"name":"Vesi gaasita Aura Spring 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"1354183";"name":"Vesi karbonis. sidrunim Vichy Classique 0,5l";"category":"SH-3-12-9";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"1358793";"name":"Allikavesi karboniseeritud Rimi 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"1358810";"name":"Allikavesi karboniseerimata Rimi 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"1364648";"name":"Mineraalvesi Rimi karboniseeritud 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"1364660";"name":"Mineraalvesi Rimi karboniseerimata 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"123465";"name":"Šokolaad Milky Way 21,5g";"category":"SH-9-9-21";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"994731";"name":"Kohuke maapähkl-karamell 28% Magija 45g";"category":"SH-11-2-7";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"994740";"name":"Kohuke küpsise 22,6% Magija 45g";"category":"SH-11-2-7";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"1011149";"name":"Tordikaunistused Dr. Oetker hõbepärlid 10g";"category":"SH-13-13-82";"brand":null;"price":0.55;"old_price":NaN;"discount_type":
+"id":"988375";"name":"Biskviitmaius karamellitäidisega Fantasia 27g";"category":"SH-11-2-7";"brand":null;"price":0.55;"old_price":0.69;"discount_type":regular
+"id":"988376";"name":"Biskviitmaius kirsitäidisega Fantasia 27g";"category":"SH-11-2-7";"brand":null;"price":0.55;"old_price":0.69;"discount_type":regular
+"id":"914488";"name":"Kohuke vanilli ja Belgia šokol. Aasa 40g";"category":"SH-11-2-7";"brand":null;"price":0.56;"old_price":NaN;"discount_type":
+"id":"927544";"name":"Kohuke šokol.tükkidega Aasa 40g";"category":"SH-11-2-7";"brand":null;"price":0.56;"old_price":NaN;"discount_type":
+"id":"947656";"name":"Mini maasikasõõrik sulatatud 23g";"category":"SH-6-6";"brand":null;"price":0.56;"old_price":NaN;"discount_type":
+"id":"149477";"name":"Küpsetuspulber Dr.Oetker 30g";"category":"SH-13-13-83";"brand":null;"price":0.56;"old_price":NaN;"discount_type":
+"id":"139984";"name":"Mahlajää limon-guanabamaits Limpa 70g";"category":"SH-4-1-5";"brand":null;"price":0.56;"old_price":NaN;"discount_type":
+"id":"1350301";"name":"Vesi gaasiga Spring Aura 0,5l pet";"category":"SH-3-12-8";"brand":null;"price":0.57;"old_price":NaN;"discount_type":
+"id":"162902";"name":"Nätsukommid Rainbow Fruittella 41g";"category":"SH-9-3-2";"brand":null;"price":0.57;"old_price":NaN;"discount_type":
+"id":"290741";"name":"Võiroos Rimi pagaritelt 70g";"category":"SH-6-6";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"7002950";"name":"Kiisueine Gourmet Perle kana 85g";"category":"SH-7-1-1";"brand":null;"price":0.59;"old_price":0.88;"discount_type":regular
+"id":"7002952";"name":"Kiisueine Gourmet Perle forelli-spi. 85g";"category":"SH-7-1-1";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"7231226";"name":"Kustutuskummide komplekt 3tk 45x20x5mm AW22";"category":"SH-10-49";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"123355";"name":"Hommikueine batoon Nestle Choapic 25g";"category":"SH-13-3-17";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"1004269";"name":"Maisihelbebatoon gluteenivaba Nestle 22g";"category":"SH-13-3-17";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"1004352";"name":"Piimašokolaad originaal Nurr 20g";"category":"SH-9-9-20";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"274188";"name":"Puding Monte šokolaadi Zott 55g";"category":"SH-11-2-2";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"804149";"name":"Vormiküpsised kondenspiimaga Rimi Basic 160g";"category":"SH-9-5-5";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"7002951";"name":"Kiisueine Gourmet Perle uluki-aedvilja 85g";"category":"SH-7-1-1";"brand":null;"price":0.59;"old_price":0.88;"discount_type":regular
+"id":"947460";"name":"Mahlajää apel-pirn-mango 65ml/65g";"category":"SH-4-1-5";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"140055";"name":"Kiirsupp kanapüree saiakuubikutega Maggi 16g";"category":"SH-13-8-41";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"140057";"name":"Kiirsupp punapeedi saiakuub. Maggi 16g";"category":"SH-13-8-41";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"140089";"name":"Kiirsupp šampinjoni saiakuubikutega Maggi 15g";"category":"SH-13-8-41";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"152614";"name":"Juustusupp saiakuubikutega Maggi 19g";"category":"SH-13-8-41";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"165575";"name":"Seenesupp krutoonidega Maggi 16g";"category":"SH-13-8-41";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"802499";"name":"Joogijogurt maasika Rimi 100g";"category":"SH-11-2-4";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"278770";"name":"Sibul, 50/70 mm, kg";"category":"SH-12-1-6";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"123354";"name":"Batoon Nesquik Nestle 25g";"category":"SH-13-3-17";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"123356";"name":"Batoon Cini Minis Nestle 25g";"category":"SH-13-3-17";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"103170";"name":"Tomatipasta Pomi 200g";"category":"SH-13-6-31";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"1371565";"name":"Alkoholivaba õlu Beerville 0,5l";"category":"SH-3-1";"brand":null;"price":0.59;"old_price":0.61;"discount_type":regular
+"id":"995428";"name":"Seenepirukas Eesti Sai 80g";"category":"SH-6-6";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"995250";"name":"Klassik. sõõrik tumeda glas. Eesti Pagar 52g";"category":"SH-6-6";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"7233529";"name":"Pliatsite komplekt Centrum 4 HB";"category":"SH-10-59";"brand":null;"price":0.59;"old_price":NaN;"discount_type":
+"id":"804745";"name":"Tulemasin Rimi";"category":"10-54-105";"brand":null;"price":0.6;"old_price":NaN;"discount_type":
+"id":"811930";"name":"Peekonimaitselised kiirnuudlid Rimi Basic 50g";"category":"SH-13-8-39";"brand":null;"price":0.6;"old_price":NaN;"discount_type":
+"id":"804285";"name":"Tee roheline Rimi Basic 80g";"category":"SH-13-17-97";"brand":null;"price":0.6;"old_price":NaN;"discount_type":
+"id":"1350164";"name":"Joogivesi Saaremaa 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.6;"old_price":NaN;"discount_type":
+"id":"988595";"name":"Kohuke vaarika Aasa 40g";"category":"SH-11-2-7";"brand":null;"price":0.62;"old_price":NaN;"discount_type":
+"id":"534761";"name":"Hambaork puust lahtris 6.5cm 190tk";"category":"SH-10-4-11";"brand":null;"price":0.63;"old_price":NaN;"discount_type":
+"id":"947475";"name":"Moosipall, sulatatud 60g";"category":"SH-6-6";"brand":null;"price":0.63;"old_price":NaN;"discount_type":
+"id":"7050955";"name":"Tuletikud Rimi XL 100tk 55mm";"category":"10-54-105";"brand":null;"price":0.63;"old_price":NaN;"discount_type":
+"id":"809209";"name":"Karamellid homaarid Rimi Basic 100g";"category":"SH-9-3-3";"brand":null;"price":0.63;"old_price":NaN;"discount_type":
+"id":"995333";"name":"Kirsitäidis. kohupiimapall Cannelle 35g";"category":"SH-6-6";"brand":null;"price":0.63;"old_price":NaN;"discount_type":
+"id":"173474";"name":"Müslibatoon ploomi Crunchy Sante 40g";"category":"SH-13-3-17";"brand":null;"price":0.64;"old_price":NaN;"discount_type":
+"id":"173465";"name":"Müslibatoon jõhvika-vaarika Sante Crunchy 40g";"category":"SH-13-3-17";"brand":null;"price":0.64;"old_price":NaN;"discount_type":
+"id":"1001859";"name":"Müslibatoon šok. kaera Sante Granola 40g";"category":"SH-13-3-17";"brand":null;"price":0.64;"old_price":NaN;"discount_type":
+"id":"1001870";"name":"Müslibatoon mee-kaera Sante Granola 40g";"category":"SH-13-3-17";"brand":null;"price":0.64;"old_price":NaN;"discount_type":
+"id":"1001865";"name":"Müslibatoon ban. šok. Sante Crunchy 40g";"category":"SH-13-3-17";"brand":null;"price":0.64;"old_price":NaN;"discount_type":
+"id":"7255776";"name":"Kiisueine Felix part/spinat tarrend. 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7255777";"name":"Kiisueine Felix veisel./tomat tarre. 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7255778";"name":"Kiisueine Felix kassipoegadele kana 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7255779";"name":"Kiisueine Felix Fantastic kalkun 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7255787";"name":"Kiisueine Felix Fantastic kana 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7255788";"name":"Kiisueine Felix porgand/kana tarren. 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7255789";"name":"Kiisueine Felix Fantastic lõhe 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7255790";"name":"Kiisueine Felix kalkun/peekon 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7255800";"name":"Kiisueine Felix lõhe/kreveti 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7255802";"name":"Kiisueine Felix Fantastic küülik 85g";"category":"SH-7-1-1";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"7231229";"name":"Valge liim 120g AW22";"category":"SH-10-52";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"958603";"name":"Jogurt tuubis maasika Smile 65g";"category":"SH-11-2-5";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"975226";"name":"Portugali sai Pastel de Nata 66g";"category":"SH-6-6";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"1359627";"name":"Mineraalvesi karboniseerimata Neptunas 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"812297";"name":"Kons.valg.oad Rimi Basic tomatikast.400g";"category":"SH-13-10-50";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"121640";"name":"Närimiskumm White Spearmint Orbit 14g";"category":"SH-9-3-5";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"163821";"name":"Piimašokolaad Kalev Anneke 20g";"category":"SH-9-9-21";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"173164";"name":"Batoon küpsise&marmelaadi Kirju Koer 36g";"category":"SH-9-9-21";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"1358978";"name":"Karbon.kar.jook Njoy sidruni-maasika 0,33l";"category":"SH-3-7";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"1358982";"name":"Karbon.kar.jook Njoy sidruni-laimi 0,33l";"category":"SH-3-7";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"163652";"name":"Maisipallid iirisega Mesikäpp Mõnus Maius 25g";"category":"SH-9-3-3";"brand":null;"price":0.65;"old_price":NaN;"discount_type":
+"id":"607493";"name":"Nõudepesusvamm Vileda glitzi";"category":"SH-10-17";"brand":null;"price":0.66;"old_price":NaN;"discount_type":
+"id":"101364";"name":"Koorekompvekid Werthers Originaal 50g";"category":"SH-9-3-2";"brand":null;"price":0.66;"old_price":NaN;"discount_type":
+"id":"102306";"name":"Närimiskumm Spearmint Orbit 14g";"category":"SH-9-3-5";"brand":null;"price":0.66;"old_price":NaN;"discount_type":
+"id":"995351";"name":"Väike marjatäid.berliner La Lorraine 25g";"category":"SH-6-6";"brand":null;"price":0.66;"old_price":NaN;"discount_type":
+"id":"1006648";"name":"Kõrvitsasupp läätsedega Knorr 22g";"category":"SH-13-8-41";"brand":null;"price":0.67;"old_price":NaN;"discount_type":
+"id":"1006660";"name":"Guljašš pastaga Knorr 16g";"category":"SH-13-8-41";"brand":null;"price":0.67;"old_price":NaN;"discount_type":
+"id":"7017916";"name":"Koonusküünal kollane 245/24";"category":"SH-10-9-47";"brand":null;"price":0.47;"old_price":0.67;"discount_type":loyalty
+"id":"7017917";"name":"Koonusküünal veinipunane 245/24";"category":"SH-10-9-47";"brand":null;"price":0.47;"old_price":0.67;"discount_type":loyalty
+"id":"802408";"name":"Piimaš.sarapuupähklitükkidega Poesia100g";"category":"SH-9-9-20";"brand":null;"price":0.67;"old_price":NaN;"discount_type":
+"id":"944437";"name":"Vanillimaitseline kreemisaiake 88g";"category":"SH-6-6";"brand":null;"price":0.68;"old_price":NaN;"discount_type":
+"id":"1000261";"name":"Vahvlibatoon B-ready Nutella 22g";"category":"SH-9-9-21";"brand":null;"price":0.68;"old_price":NaN;"discount_type":
+"id":"162632";"name":"Juustusupp Knorr 22g";"category":"SH-13-8-41";"brand":null;"price":0.68;"old_price":NaN;"discount_type":
+"id":"1359644";"name":"Mineraalvesi karboniseeritud Neptunas 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"1007304";"name":"Kaerahelbepuder Digestion Nesvita 35g";"category":"SH-13-2-12";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"1007305";"name":"Kaerahelbepuder Healthy Skin Nesvita 35g";"category":"SH-13-2-12";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"992856";"name":"Kohupiim ricotta Piimameister Otto 200g";"category":"SH-11-4-21";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"7269203";"name":"Pastapliiats EK Rough Native sinine AW22";"category":"SH-10-55";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"810766";"name":"Kasside suupisted ICA kana maitsega 18 g";"category":"SH-7-1-2";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"511043";"name":"Kilekaaned vihikule College 10tk";"category":"SH-10-48";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"7110146";"name":"Märkmepaber Hopax 76X75mm kollane";"category":"SH-10-7-40";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"466271";"name":"Värviline paber kahepoolne A4 8 lehte";"category":"SH-10-58";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"1002272";"name":"Batoon Nestle Fitness Honey Almonds 23,5g";"category":"SH-13-3-17";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"1367769";"name":"Porgandinektar Rimi 0,33l";"category":"SH-3-8-3";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"1367768";"name":"Banaaninektar Rimi 0,33l";"category":"SH-3-8-3";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"1367770";"name":"Porgandi-õuna-virsikunektar Rimi 0,33l";"category":"SH-3-8-3";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"1367772";"name":"Porgandi-õuna-maasikanektar Rimi 0,33l";"category":"SH-3-8-3";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"813128";"name":"Mikropopkorn soolane Rimi 90g";"category":"SH-9-8-19";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"813137";"name":"Mikropopkorn võimaitseline Rimi 90g";"category":"SH-9-8-19";"brand":null;"price":0.69;"old_price":0.92;"discount_type":regular
+"id":"7249132";"name":"Viltpliiatsid 6 värvi";"category":"SH-10-57";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"7249124";"name":"Liimipulk PVP 15g Centrum";"category":"SH-10-52";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"914487";"name":"Kohuke mustika ja Belgia šokol. Aasa 40g";"category":"SH-11-2-7";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"7209416";"name":"Nuga ErichKrause Standart 9mm väike";"category":"SH-10-51";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"800760";"name":"Svamm Oreon 1tk";"category":"SH-2-6-44";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"102747";"name":"Šokolaadimedal Kalev 15g";"category":"SH-9-9-21";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"801704";"name":"Majapidamiskindad Marine S 1tk";"category":"SH-10-5-25";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"801712";"name":"Majapidamiskindad Marine L 1tk";"category":"SH-10-5-25";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"812124";"name":"Kassisööt Nutribalance veiselihaga 85g";"category":"SH-7-1-1";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"810767";"name":"Kasside suupisted ICA lõhe maitsega 18 g";"category":"SH-7-1-2";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"200640";"name":"Redis tuutu 125g";"category":"SH-12-1-5";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"801717";"name":"Küürimisnuustik Marine 2 tk 12g";"category":"SH-10-17";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"7178073";"name":"Sünnipäevaküünal No. 1";"category":"SH-10-4-6";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"121040";"name":"Närimiskumm arbuusi Orbit suhkruvaba 14g";"category":"SH-9-3-5";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"202762";"name":"Piim Alma 2,5% 500ml";"category":"SH-11-8-37";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"1366371";"name":"Õlu A. Le Coq Premium 4,7%vol 0,33l purk";"category":"SH-1-6";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"946370";"name":"Kohuke mooniseemnetega Aasa 40g";"category":"SH-11-2-7";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"946371";"name":"Kohuke kookosega Aasa 40g";"category":"SH-11-2-7";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"261321";"name":"Dessert šokolaadi Zott 175g";"category":"SH-11-2-2";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"269163";"name":"Õun Paula Idared 1kl, kg";"category":"SH-12-5-27";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"139415";"name":"Batoon Nestle Fitness Chocolate 23,5g";"category":"SH-13-3-17";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"810934";"name":"Söögiäädikas Rimi Basic 30% 330ml";"category":"SH-13-19-104";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"152442";"name":"Šokolaadibatoon Fazer Geisha 37g";"category":"SH-9-9-21";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"103156";"name":"Närimiskumm Sweetmint Orbit suhkruvaba 14g";"category":"SH-9-3-5";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"185575";"name":"Batoon Nestle Fitness Red Berries 23,5g";"category":"SH-13-3-17";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"1351880";"name":"Soodavesi 0,33l";"category":"SH-3-12-8";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"811466";"name":"Kivisool jämedateraline Rimi Basic 1kg";"category":"SH-13-12-77";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"814026";"name":"Värskendavad salvrätikud Almeda 15tk";"category":"SH-2-3-16";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"954281";"name":"Singi-juustupirukas pärmitai. Eesti Pagar 80g";"category":"SH-6-6";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"814249";"name":"Niisked salvrätikud Almeda Bubble Gum 15tk";"category":"SH-2-3-16";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"296685";"name":"Sõõrik valge glasuuriga Mantinga 55g";"category":"SH-6-6";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"7269193";"name":"Pastapliiats EK Rough Native sinine AW22";"category":"SH-10-55";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"7269205";"name":"Pastapliiats EK Magic Rhombs sinine AW22";"category":"SH-10-55";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"7269206";"name":"Pastapliiats EK Color Touch Flora sinine AW22";"category":"SH-10-55";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"7269207";"name":"Pastapliiats EK Emerald Wave sinine AW22";"category":"SH-10-55";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"261558";"name":"Biskviitmaius Kinder Pingui Coconut 31g";"category":"SH-11-2-7";"brand":null;"price":0.69;"old_price":NaN;"discount_type":
+"id":"162638";"name":"Püreesupp puraviku Knorr 15g";"category":"SH-13-8-41";"brand":null;"price":0.71;"old_price":NaN;"discount_type":
+"id":"804288";"name":"Tee puuvilja Rimi Basic 20x2g";"category":"SH-13-17-96";"brand":null;"price":0.71;"old_price":NaN;"discount_type":
+"id":"162636";"name":"Püreesupp šampinjoni Knorr 15g";"category":"SH-13-8-41";"brand":null;"price":0.71;"old_price":NaN;"discount_type":
+"id":"162637";"name":"Kanasupp nuudlitega Knorr 12g";"category":"SH-13-8-41";"brand":null;"price":0.71;"old_price":NaN;"discount_type":
+"id":"162639";"name":"Kanapüreesupp Knorr 16g";"category":"SH-13-8-41";"brand":null;"price":0.71;"old_price":NaN;"discount_type":
+"id":"1006777";"name":"Pastillid marjamaitselised Tic Tac 18g";"category":"SH-9-7";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"7270676";"name":"Koerasööt kanaga Club 4Paws Premium 100g";"category":"SH-7-2-4";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"7270682";"name":"Koerasööt lambaga C4P Premium 100g";"category":"SH-7-2-4";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"182237";"name":"Piimašokolaad Oreo täidisega Milka 37g";"category":"SH-9-9-21";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"7180960";"name":"Süütevahendid PROflame EXPERT 32tk";"category":"SH-10-83-3";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"1368070";"name":"En.jook Burn Peach Zero magusainetega 0,33l";"category":"SH-3-4";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"915806";"name":"Mahlapulk sidruni-laimi Twister 71g";"category":"SH-4-1-5";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"137329";"name":"Pastillid laimimaitselised Halls 33,5g";"category":"SH-9-7";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"162281";"name":"Meresool joodiga Droga peensool 500g";"category":"SH-13-12-77";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"165253";"name":"Pastillid mündimaitselised Tic Tac 18g";"category":"SH-9-7";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"165254";"name":"Pastillid apelsinimaitselised Tic Tac 18g";"category":"SH-9-7";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"165255";"name":"Pastillid maasikamaitselised Tic Tac 18g";"category":"SH-9-7";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"100909";"name":"Pastillid Extra Strong Halls 33.5g";"category":"SH-9-7";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"100967";"name":"Pastillid mee&sidruni Halls 33,5g";"category":"SH-9-7";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"1366910";"name":"Energiajook Burn Original 0,33l";"category":"SH-3-4";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"276880";"name":"Kohupiimasaiake Eesti Pagar 70g";"category":"SH-6-6";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"901680";"name":"Liha-riisipirukas pärmitaign. Eesti Pagar 75g";"category":"SH-6-6";"brand":null;"price":0.72;"old_price":NaN;"discount_type":
+"id":"927922";"name":"Jõhvika-mannavaht 200g";"category":"SH-16-2";"brand":null;"price":0.73;"old_price":NaN;"discount_type":
+"id":"177261";"name":"Kuldsed pärlid Dr.Oetker 10g";"category":"SH-13-13-82";"brand":null;"price":0.73;"old_price":NaN;"discount_type":
+"id":"7257919";"name":"Lauaküünal 250/24 mm Fuchsia 1tk";"category":"SH-10-9-47";"brand":null;"price":0.52;"old_price":0.74;"discount_type":loyalty
+"id":"7257931";"name":"Lauaküünal 250/24 mm Maroon 1tk";"category":"SH-10-9-47";"brand":null;"price":0.52;"old_price":0.74;"discount_type":loyalty
+"id":"7257932";"name":"Lauaküünal 250/24 mm Warm grey 1tk";"category":"SH-10-9-47";"brand":null;"price":0.52;"old_price":0.74;"discount_type":loyalty
+"id":"7257933";"name":"Lauaküünal 250/24 mm Cornflower blue 1tk";"category":"SH-10-9-47";"brand":null;"price":0.52;"old_price":0.74;"discount_type":loyalty
+"id":"7257934";"name":"Lauaküünal 250/24 mm Ultra-Violett 1tk";"category":"SH-10-9-47";"brand":null;"price":0.52;"old_price":0.74;"discount_type":loyalty
+"id":"7257940";"name":"Lauaküünal 250/24 mm Lemon 1tk";"category":"SH-10-9-47";"brand":null;"price":0.52;"old_price":0.74;"discount_type":loyalty
+"id":"812123";"name":"Kassisööt Nutribalance lõhega 85g";"category":"SH-7-1-1";"brand":null;"price":0.74;"old_price":NaN;"discount_type":
+"id":"812122";"name":"Kassisööt Nutribalance loomal.linnul.85g";"category":"SH-7-1-1";"brand":null;"price":0.74;"old_price":NaN;"discount_type":
+"id":"812132";"name":"Kassisööt Nutribalance lõhega,steril.85g";"category":"SH-7-1-1";"brand":null;"price":0.74;"old_price":NaN;"discount_type":
+"id":"812136";"name":"Kassisööt Nutribalance kana,kalkun. 85g";"category":"SH-7-1-1";"brand":null;"price":0.74;"old_price":NaN;"discount_type":
+"id":"195829";"name":"Valge šokolaadi batoon Lion 2-pakk 60g";"category":"SH-9-9-21";"brand":null;"price":0.74;"old_price":NaN;"discount_type":
+"id":"1364649";"name":"Mineraalvesi Rimi karboniseeritud 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.74;"old_price":NaN;"discount_type":
+"id":"1364661";"name":"Mineraalvesi Rimi karboniseerimata 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.74;"old_price":NaN;"discount_type":
+"id":"813205";"name":"Must tee Rimi Basic 80g";"category":"SH-13-17-95";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"177816";"name":"Müslibatoon maasika Nestle 35g";"category":"SH-13-3-17";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"975736";"name":"Rukkileib Pärnu ELT 260g";"category":"SH-6-3-15";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"177834";"name":"Müslibatoon šokolaadi-banaani Nestle 35g";"category":"SH-13-3-17";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"261332";"name":"Dessert vanilje Liegeois Zott 175g";"category":"SH-11-2-2";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"988545";"name":"Jogurt maasika Farmi 150g";"category":"SH-11-2-5";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"262150";"name":"Dessert maasika Liegeois Zott 175g";"category":"SH-11-2-2";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"917919";"name":"Mitmevilja croissant 72g";"category":"SH-6-6";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"812837";"name":"Mini läätsevahvlid Rimi 44g";"category":"SH-13-1-2";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"7244381";"name":"Küpsetuskott 3 m Rimi basic";"category":"SH-10-6-23";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"140490";"name":"Kiirpuder kaerahelbe jõhvika Veski Mati 45g";"category":"SH-13-2-12";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"140492";"name":"Kiirpuder kaerahelbe õuna Veski Mati 45g";"category":"SH-13-2-12";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"140493";"name":"Kaerahelbe kiirpuder mustikaga Veski Mati 45g";"category":"SH-13-2-12";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"281223";"name":"Pekaanipähklisaiake vahtrasiirupiga 91g";"category":"SH-6-6";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"804324";"name":"Pabertaskurätikud Rimi Basic 6x10tk";"category":"SH-10-22";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"955603";"name":"Moonirull 72g";"category":"SH-6-6";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"205052";"name":"Leib rukkipala Leibur 330g";"category":"SH-6-2-12";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"804338";"name":"Piim kile Rimi 2,5% 1l";"category":"SH-11-8-37";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"105050";"name":"Küpsetuspulber Santa Maria 45g";"category":"SH-13-13-83";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"108235";"name":"Sidrunhape Santa Maria 30g";"category":"SH-13-13-81";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"804291";"name":"Tee must Rimi Basic 20x1,5g";"category":"SH-13-17-95";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"164383";"name":"Kaerahelbed Tartu Mill 500g";"category":"SH-13-2-9";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"177825";"name":"Müslibatoon šokolaadi Nestle 35g";"category":"SH-13-3-17";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"801702";"name":"4-viljahelbed Rimi 500g";"category":"SH-13-2-11";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"164253";"name":"Šokolaadibatoon Twix 50g";"category":"SH-9-9-21";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"141823";"name":"Pastillid metsamarja Halls 33,5g";"category":"SH-9-7";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"100958";"name":"Pastillid Mentho Lyptus Halls 33,5g";"category":"SH-9-7";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"252050";"name":"Mahlajää 4-maitseline Jocker 80g/80ml";"category":"SH-4-1-5";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"262695";"name":"Broilerikael külmutatud 400g";"category":"SH-4-4";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"1009768";"name":"Närimiskumm Orbit White vaar.-granaatõuna 14g";"category":"SH-9-3-5";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"1370687";"name":"Karb.vesi Vichy Classique Blueberry 1,5l PET";"category":"SH-3-12-9";"brand":null;"price":0.75;"old_price":NaN;"discount_type":
+"id":"807746";"name":"Tomatid tükeldatud basiilikuga Rimi 400g";"category":"SH-13-10-63";"brand":null;"price":0.76;"old_price":NaN;"discount_type":
+"id":"100785";"name":"Vahvlibatoon šokolaadis Fazer Kismet 55g";"category":"SH-9-9-21";"brand":null;"price":0.76;"old_price":NaN;"discount_type":
+"id":"995316";"name":"Sõõrik metsamarjatäidisega Mantinga 70g";"category":"SH-6-6";"brand":null;"price":0.76;"old_price":NaN;"discount_type":
+"id":"802411";"name":"Valge šokolaad Poesia 100g";"category":"SH-9-9-23";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7006631";"name":"Kassieine Gourmet lõhe/kana,tükid,85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7006628";"name":"Kassisööt Gourmet Gold kanapasteet 85 g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7124744";"name":"Kassieine Gourmet loomaliha,tükid,85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"497683";"name":"Kiisueine loomaliha Gourmet gold 85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7006629";"name":"Kiisueine Gourmet Gold kalkunipasteet 85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7005660";"name":"Kassis. Gourmet küülik-maks,tükid,85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7006632";"name":"Kiisueine Gourmet gold Duo 85 g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"155546";"name":"Kiisueine Gourmet gold kana-maks 85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"155547";"name":"Kassisööt Gourmet kalkun-part,tükid,85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"497705";"name":"Kiisueine Gourmet Gold tuunikala 85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7124735";"name":"Kassieine Gourmet lammas/uba,tükid,85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7124728";"name":"Kassieine Gourmet Gold kana/porgand 85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7230242";"name":"Kassieine Gourmet Gold Kana,pasteet,85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7230243";"name":"Kassieine Gourmet Gold Veiseliha 85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"7230244";"name":"Kassieine Gourmet Gold Lõhe,pasteet,85g";"category":"SH-7-1-1";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"803185";"name":"Kohupiimakreem virsiku Rimi 150g";"category":"SH-11-4-21";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"176022";"name":"Vahvlibatoon šokolaadis KitKat 41,5g";"category":"SH-9-9-21";"brand":null;"price":0.77;"old_price":NaN;"discount_type":
+"id":"807492";"name":"Tulemasin Rimi";"category":"10-54-105";"brand":null;"price":0.78;"old_price":NaN;"discount_type":
+"id":"807737";"name":"Ploomtomatid kooritud Rimi 400g";"category":"SH-13-10-63";"brand":null;"price":0.78;"old_price":NaN;"discount_type":
+"id":"177271";"name":"Suhkrust südamekesed Dr.Oetker 10g";"category":"SH-13-13-82";"brand":null;"price":0.78;"old_price":NaN;"discount_type":
+"id":"188605";"name":"Suhkrust värvilised tähed Dr.Oetker 10g";"category":"SH-13-13-82";"brand":null;"price":0.78;"old_price":NaN;"discount_type":
+"id":"980926";"name":"Kohupiimakreem mangokisselliga Alma 140g";"category":"SH-11-4-21";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"813689";"name":"Multipuuvilja mahlajook Rimi Basic  1l";"category":"SH-3-8-2";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"987572";"name":"Koorejäätis vahvlitorus Raks 110ml/68g";"category":"SH-4-1-7";"brand":null;"price":0.79;"old_price":1.09;"discount_type":regular
+"id":"987573";"name":"Sidruni-koorejäätis küpsistega Raks 110ml/60g";"category":"SH-4-1-7";"brand":null;"price":0.79;"old_price":1.05;"discount_type":regular
+"id":"993109";"name":"Piim banaanilisand. ja vitam. Väike Tom 0,2l";"category":"SH-11-8-35";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7233454";"name":"Pastapliiats Trio Steel 0,7 sinine";"category":"SH-10-55";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7233548";"name":"Geelpliiats Centrum sinine tint 0,5mm";"category":"SH-10-56";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7231009";"name":"Mapp A4 AW22";"category":"SH-10-48";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7031346";"name":"Seep Palmolive naturals milk&honey 90g";"category":"SH-2-6-40";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"812713";"name":"Täistera riisivahvlid ilma soolata Rimi 100g";"category":"SH-13-1-2";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"812722";"name":"Täistera riisivahvlid meresoolaga Rimi 100g";"category":"SH-13-1-2";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7092403";"name":"Jääkraabits";"category":"SH-15-2-10";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"198418";"name":"Närimiskumm White melon/mint Orbit 14g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1003905";"name":"Närimiskumm Refreshers Peppermint Orbit 15,6g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1003906";"name":"Närimiskumm Refreshers Spearmint Orbit 15,6g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7244380";"name":"Küpsetuspaber 6 m Rimi basic";"category":"SH-10-6-23";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1368328";"name":"Alk.vaba jook Hartwall Original LD 0,33l";"category":"SH-3-2";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7233444";"name":"Pastapliiats Trio rt gp Steel 0,7 punane";"category":"SH-10-55";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7233532";"name":"Pliiatsid Centrum HB 3tk";"category":"SH-10-59";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"465364";"name":"Majapidamislapp Wettex väike";"category":"SH-10-17";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"800757";"name":"Puhastuslapid Marine 3tk";"category":"SH-10-17";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"294721";"name":"Till 30g";"category":"SH-12-3";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"610038";"name":"Joonistusvihik A4";"category":"SH-10-58";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"121888";"name":"Biskviitmaiustus Kinder Pingui 30g";"category":"SH-11-2-7";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"260222";"name":"Biskviitmaiustus Kinder Maxi King 35g";"category":"SH-11-2-7";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"809721";"name":"Vatipadjad Ica 80tk";"category":"SH-2-3-17";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"810754";"name":"Koera maiused ICA spiraalid 70 g";"category":"SH-7-2-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"734476";"name":"Koeraeine Pedigree koerale 100 g";"category":"SH-7-2-4";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"734477";"name":"Koerasööt Pedigree kana&köögiv. 100 g";"category":"SH-7-2-4";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"734478";"name":"Koeraeine Pedigree Junior 100 g";"category":"SH-7-2-4";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"812006";"name":"Kosmeetilised vatipadjad Almeda 80tk.";"category":"SH-2-3-17";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7031508";"name":"Seep Palmolive oliiv 90 g";"category":"SH-2-6-40";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7031507";"name":"Seep Palmolive kummel 90 g";"category":"SH-2-6-40";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7031510";"name":"Tükiseep Palmolive massage 90 g";"category":"SH-2-6-40";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"7178769";"name":"Vatipadjad Spa Cotton Aloe 70tk";"category":"SH-2-3-17";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"808828";"name":"VJäätis vanilli vahvlitops Rimi 120ml/65g";"category":"SH-4-1-7";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"800758";"name":"Puhastuslapid universaalsed Marine 3tk";"category":"SH-10-17";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"966036";"name":"Koorejäätis RAKS küpsistega 110ml/56g";"category":"SH-4-1-7";"brand":null;"price":0.79;"old_price":1.05;"discount_type":regular
+"id":"804297";"name":"Pikateraline riis Rimi Basic 800g";"category":"SH-13-15-90";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"125478";"name":"Karamellid barbarissi Kalev Caramel 120g";"category":"SH-9-3-3";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"125585";"name":"Närimiskumm apelsini Orbit suhkruvaba 14g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1361829";"name":"Karb. karastusjook limonaad Rimi 0,5l";"category":"SH-3-7";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"808813";"name":"Šokolaadijäätis šok.tk Rimi 120ml/65g";"category":"SH-4-1-7";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"808822";"name":"Jäätis marjatäidisega Rimi 120ml/72g";"category":"SH-4-1-7";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"811611";"name":"Kartulipüree Rimi Express sibulaga 56g";"category":"SH-13-8-40";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"101343";"name":"Kanasupp nuudlitega Podavka 62g";"category":"SH-13-8-41";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"115329";"name":"Kiirnuudlid kanalihamaitselised Rolton 60g";"category":"SH-13-8-39";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"115330";"name":"Kiirnuudlid kanalihamai. vürtsikad Rolton 60g";"category":"SH-13-8-39";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"207009";"name":"Sai Perenaise Eesti Pagar 320g";"category":"SH-6-7-22";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"165629";"name":"Kiirnuudlid juustu-ürdi Knorr 61g";"category":"SH-13-8-39";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"278776";"name":"Punane peet kg";"category":"SH-12-1-3";"brand":null;"price":1.19;"old_price":NaN;"discount_type":
+"id":"136068";"name":"Närimiskumm mustika Orbit suhkruvaba 14g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"142448";"name":"Vahvlibatoon šokolaadis chunky KitKat 40g";"category":"SH-9-9-21";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"100786";"name":"Piimašokolaadi batoon Kinder Bueno 43g";"category":"SH-9-9-21";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"104655";"name":"Närimiskumm White Freshmint Orbit 14g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"105953";"name":"Närimiskumm White Fruit Orbit 14g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"164252";"name":"Šokolaadibatoon Snickers 50g";"category":"SH-9-9-21";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"168750";"name":"Šokolaadibatoon Kalev Linnupiim 35g";"category":"SH-9-9-21";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"180214";"name":"Kakaobatoon piimakreemi Kinder Delice 39g";"category":"SH-9-9-21";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"196956";"name":"Närimiskumm White Strawberry Orbit 14g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"102307";"name":"Närimiskumm eukalüptimaitseline Orbit 14g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"103154";"name":"Närimiskumm Winterfresh Orbit 14g";"category":"SH-9-3-5";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"177540";"name":"Puuviljamaitselised kommid Lotte 16g";"category":"SH-9-3-4";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1350086";"name":"Vesi sidruni Vichy Classigue 1,5l";"category":"SH-3-12-9";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1350299";"name":"Mineraliseeritud vesi Värska 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1352737";"name":"Vesi Aura Gaasita 1,5l PET";"category":"SH-3-12-8";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1352738";"name":"Vesi Aura Spring Gaasiga 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1360003";"name":"Joogivesi karb-tud Rimi sidrunimaits. 1,5l";"category":"SH-3-12-9";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1360021";"name":"Joogivesi pohlamaits. karbon. Rimi 1,5l";"category":"SH-3-12-9";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1365447";"name":"Karb.kaljamaitseline jook Rimi Basic1,5l";"category":"SH-3-6";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"206273";"name":"Jäätis vanilli šok.gl. Vanilla Ninja 80g";"category":"SH-4-1-9";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1360186";"name":"Karastusjook Rimi apelsinilimonaad 0,5l";"category":"SH-3-7";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1360201";"name":"Karastusjook Rimi Cola 0,5l";"category":"SH-3-7";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1360582";"name":"Karboniseeritud karastusjook Lemon Rimi 0,5l";"category":"SH-3-7";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"403110";"name":"Tulemasin Cricket original";"category":"10-54-105";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"995441";"name":"Spinati-fetajuustu toruke filotainas 100g";"category":"SH-6-6";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1011431";"name":"Batoon india pähklitega Emco gluteenivaba 35g";"category":"SH-13-3-16";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1011430";"name":"Batoon mandli-pistaatsia Emco glut.vaba 35g";"category":"SH-13-3-16";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1359699";"name":"Mineraalvesi Akvile gaseeritud 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"1369593";"name":"Tomatimahl Rimi 0,33l";"category":"SH-3-8-1";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"996018";"name":"Kõrgkuum piim šok.lisa. ja vitami. 200ml";"category":"SH-11-8-35";"brand":null;"price":0.79;"old_price":NaN;"discount_type":
+"id":"802407";"name":"Piimašokolaad Poesia 100g";"category":"SH-9-9-20";"brand":null;"price":0.8;"old_price":NaN;"discount_type":
+"id":"1001099";"name":"Vormiküpsised šokolaadi Von Ruster 160g";"category":"SH-9-5-5";"brand":null;"price":0.8;"old_price":NaN;"discount_type":
+"id":"1001105";"name":"Vormiküpsised Von Ruster 160g";"category":"SH-9-5-5";"brand":null;"price":0.8;"old_price":NaN;"discount_type":
+"id":"1001110";"name":"Vormiküpsised jõhvika Von Ruster 160g";"category":"SH-9-5-5";"brand":null;"price":0.8;"old_price":NaN;"discount_type":
+"id":"912239";"name":"Maasikajogurt tuubis Danonki 70g";"category":"SH-11-2-5";"brand":null;"price":0.8;"old_price":NaN;"discount_type":
+"id":"1008166";"name":"Šokolaadibatoon 2-pakk Lion 60g";"category":"SH-9-9-21";"brand":null;"price":0.81;"old_price":NaN;"discount_type":
+"id":"290825";"name":"Pärmitaigna lihapirukas Rimi pagaritelt 70g";"category":"SH-6-6";"brand":null;"price":0.81;"old_price":NaN;"discount_type":
+"id":"1368218";"name":"Vesi Aura Rabarberi gaasiga 1,5l";"category":"SH-3-12-9";"brand":null;"price":0.81;"old_price":NaN;"discount_type":
+"id":"1350501";"name":"Vesi Aura Plus Pohla1,5l";"category":"SH-3-12-9";"brand":null;"price":0.81;"old_price":NaN;"discount_type":
+"id":"1350502";"name":"Vesi Aura Plus Sidruni 1,5l PET";"category":"SH-3-12-9";"brand":null;"price":0.81;"old_price":NaN;"discount_type":
+"id":"917677";"name":"Jogurt kookospallidega Fantasia 98g";"category":"SH-11-2-5";"brand":null;"price":0.82;"old_price":NaN;"discount_type":
+"id":"993108";"name":"Piim maasikalisand. ja vitam. Väike Tom 0,2l";"category":"SH-11-8-35";"brand":null;"price":0.82;"old_price":NaN;"discount_type":
+"id":"801718";"name":"Küürimissvamm Marine 5 tk 3,5x10,5x7,5cm";"category":"SH-10-17";"brand":null;"price":0.82;"old_price":NaN;"discount_type":
+"id":"923978";"name":"Koorikleib Rehe Eesti Pagar 200g";"category":"SH-6-2-12";"brand":null;"price":0.82;"old_price":NaN;"discount_type":
+"id":"1366689";"name":"Õlu König Stadter 4,5%vol 0,33l";"category":"SH-1-6";"brand":null;"price":0.82;"old_price":NaN;"discount_type":
+"id":"1366358";"name":"Vesi Aura gaasita lisatud magneesiumiga 0,75l";"category":"SH-3-12-8";"brand":null;"price":0.82;"old_price":NaN;"discount_type":
+"id":"7244377";"name":"Alumiiniumfoolium 28 cmx10 m Rimi basic";"category":"SH-10-6-23";"brand":null;"price":0.83;"old_price":NaN;"discount_type":
+"id":"803069";"name":"Keefir RIMI 2,5% 1kg";"category":"SH-11-1";"brand":null;"price":0.83;"old_price":NaN;"discount_type":
+"id":"808827";"name":"Jäätis vahtrasiirupi Rimi 120ml/73g";"category":"SH-4-1-7";"brand":null;"price":0.83;"old_price":NaN;"discount_type":
+"id":"115332";"name":"Kiirnuudlid juustu-peekonimaits. Rolton 60g";"category":"SH-13-8-39";"brand":null;"price":0.83;"old_price":NaN;"discount_type":
+"id":"802409";"name":"Tume šokolaad Poesia 100g";"category":"SH-9-9-22";"brand":null;"price":0.83;"old_price":NaN;"discount_type":
+"id":"813934";"name":"Šokolaadibatoon sarapuupähklitäidis. Rimi 46g";"category":"SH-9-9-21";"brand":null;"price":0.84;"old_price":NaN;"discount_type":
+"id":"812714";"name":"Mitmeviljavahvlid Rimi 100g";"category":"SH-13-1-2";"brand":null;"price":0.84;"old_price":NaN;"discount_type":
+"id":"812721";"name":"Riisi- ja tatravahvlid Rimi 100g";"category":"SH-13-1-2";"brand":null;"price":0.84;"old_price":NaN;"discount_type":
+"id":"801223";"name":"Kassisööt Purrrfect lihaga konserv 415g";"category":"SH-7-1-1";"brand":null;"price":0.84;"old_price":NaN;"discount_type":
+"id":"801221";"name":"Kassisööt Purrrfect kalaga konserv 415g";"category":"SH-7-1-1";"brand":null;"price":0.84;"old_price":NaN;"discount_type":
+"id":"801222";"name":"Kassisööt Purrrfect kanaga konserv 415g";"category":"SH-7-1-1";"brand":null;"price":0.84;"old_price":NaN;"discount_type":
+"id":"128959";"name":"Puravikupuljong Gallina Blanca 8x10g";"category":"SH-13-8-43";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"101369";"name":"Kanapuljong Gallina Blanca 8x10g";"category":"SH-13-8-43";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"165628";"name":"Kiirnuudlid kanamaitselised Knorr 57g";"category":"SH-13-8-39";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"980142";"name":"Väike kanaviiner M&M 300g";"category":"SH-8-22";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"980909";"name":"Kohupiimakr. metsmaas.kissell Alma 140g";"category":"SH-11-4-21";"brand":null;"price":0.59;"old_price":0.85;"discount_type":loyalty
+"id":"980925";"name":"Kohupiimakr. metsamarjakissell Alma 140g";"category":"SH-11-4-21";"brand":null;"price":0.59;"old_price":0.85;"discount_type":loyalty
+"id":"913181";"name":"Sojadessert karamelli Alpro 125g";"category":"SH-17-11";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7178088";"name":"Numbrt. sünnipäevak. No.9 Decorata Party";"category":"SH-10-4-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"980941";"name":"Jogurt maasika Emma laktoosivaba 110g";"category":"SH-11-2-5";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"814091";"name":"Kohupiimakreem mustika Rimi 150g";"category":"SH-11-4-21";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7209460";"name":"Mehaaniline pliiats ErichKrause 0,5mm";"category":"SH-10-59";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"402519";"name":"Puhastusvahend Orto torudele 500ml";"category":"SH-10-18-81";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"275402";"name":"Martsipanikeerd 60g";"category":"SH-6-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"1002660";"name":"Vahvlibatoon Kismet Geisha 41g";"category":"SH-9-9-21";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"1002661";"name":"Vahvlibatoon pirnimaits. täidisega Kismet 55g";"category":"SH-9-9-21";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"976472";"name":"Koorejäätis Sõõrik Väike Tom 60g/80ml";"category":"SH-4-1-7";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"200181";"name":"Koorene jogurt maasika Fantasia 118g";"category":"SH-11-2-5";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"282621";"name":"Jogurt šokolaadi pallidega Fantasia 100g";"category":"SH-11-2-5";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"281036";"name":"Sojadessert tumeda šokolaadiga Alpro 125g";"category":"SH-17-11";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"809646";"name":"Kaerapuder virsikutega Rimi 55g";"category":"SH-13-2-12";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"809647";"name":"Kaerapuder karamellimaits. õuntega Rimi 55g";"category":"SH-13-2-12";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"809648";"name":"Kaerapuder kirssidega Rimi 55g";"category":"SH-13-2-12";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"809649";"name":"Kaerapuder maasikatega Rimi 55g";"category":"SH-13-2-12";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"804323";"name":"Salvrätikud näole Rimi Basic, 2kih.80tk";"category":"SH-10-22";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"222530";"name":"Jogurt kirsilisandiga Fantasia 118g";"category":"SH-11-2-5";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7178072";"name":"Sünnipäevaküünal No. 2";"category":"SH-10-4-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7178074";"name":"Sünnipäevaküünal No.7";"category":"SH-10-4-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7178076";"name":"Sünnipäevaküünal No.6";"category":"SH-10-4-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7178082";"name":"Sünnipäevaküünal No.3";"category":"SH-10-4-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7178083";"name":"Sünnipäevaküünal No.4";"category":"SH-10-4-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7178084";"name":"Sünnipäevaküünal No.8";"category":"SH-10-4-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7178085";"name":"Sünnipäevaküünal No.0";"category":"SH-10-4-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"7178087";"name":"Sünnipäevaküünal No.5";"category":"SH-10-4-6";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"192229";"name":"Maitseaine kanale Vegeta Natur 20g";"category":"SH-13-12-73";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"192243";"name":"Maitseaine kartulile Vegeta Natur 20g";"category":"SH-13-12-73";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"192610";"name":"Maitseaine krõbe. kartulile Vegeta Natur 20g";"category":"SH-13-12-73";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"200289";"name":"Piim Alma kile 2,5% 1l";"category":"SH-11-8-37";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"201396";"name":"Sojadessert vanilli Alpro 125g";"category":"SH-17-11";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"804391";"name":"Maapähkel röst. ja soolatud  Awake 150g";"category":"SH-9-4-14";"brand":null;"price":0.59;"old_price":0.85;"discount_type":loyalty
+"id":"165627";"name":"Kiirnuudlid tomatimaitselise Knorr 61g";"category":"SH-13-8-39";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"803528";"name":"Kikerhernes Rimi 400g";"category":"SH-13-10-49";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"803186";"name":"Kohupiimakreem maasika Rimi 150g";"category":"SH-11-4-21";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"100376";"name":"Jahvatatud kaneel Santa Maria 22g";"category":"SH-13-13-81";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"103703";"name":"Piimašokolaad piimatäidisega Kinder 50g";"category":"SH-9-9-21";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"184241";"name":"Batoon vahtrasiirupi Nature Valley 42g";"category":"SH-13-3-17";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"184246";"name":"Batoon tumeda šokolaadiga Nature Valley 42g";"category":"SH-13-3-17";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"185689";"name":"Vahvlibatoon Kex 60g";"category":"SH-9-9-21";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"193097";"name":"Batoon Kalev Maiuspala 40g";"category":"SH-9-9-21";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"140517";"name":"Pastillid sidruni&mee Myntho 34g";"category":"SH-9-7";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"101282";"name":"Pastillid Extra-Strong Mynthon 34g";"category":"SH-9-7";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"106462";"name":"Pastillid Citrus Multivitamin Mynthon 34g";"category":"SH-9-7";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"1359650";"name":"Jook Vichy fresh Lemon-Lime 0,5l pet";"category":"SH-3-12-9";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"100273";"name":"Jahvatatud paprika Santa Maria 22g";"category":"SH-13-12-75";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"813587";"name":"Meigieemaldusl. Almeda normaal. nahk 10tk";"category":"SH-2-3-16";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"994300";"name":"Kohupiimakreem rabarberikisselliga Alma 140g";"category":"SH-11-4-21";"brand":null;"price":0.59;"old_price":0.85;"discount_type":loyalty
+"id":"952676";"name":"Täispiim Alma 3,8-4,2% 500ml";"category":"SH-11-8-37";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"1370868";"name":"Karb.jook Vichy Fresh Bubbles Orange 0,5l PET";"category":"SH-3-12-9";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"814519";"name":"Kuumsuitsuvorst Rimi Basic 300g";"category":"SH-8-13";"brand":null;"price":0.85;"old_price":NaN;"discount_type":
+"id":"812168";"name":"Rohel. oliivid Rimi Basic kivideta 280g";"category":"SH-13-10-56";"brand":null;"price":0.86;"old_price":NaN;"discount_type":
+"id":"196732";"name":"Apelsinimahl kontsentr.mahlast Aura 0,33l";"category":"SH-3-8-1";"brand":null;"price":0.86;"old_price":NaN;"discount_type":
+"id":"196735";"name":"Multinektar Aura 0,33l";"category":"SH-3-8-3";"brand":null;"price":0.86;"old_price":NaN;"discount_type":
+"id":"196743";"name":"Õunamahl kontsentreeritud mahlast Aura 0,33l";"category":"SH-3-8-1";"brand":null;"price":0.86;"old_price":NaN;"discount_type":
+"id":"995050";"name":"Jogurt maasika-arbuusi puuv.suhkru Farmi 130g";"category":"SH-11-2-5";"brand":null;"price":0.86;"old_price":NaN;"discount_type":
+"id":"995060";"name":"Jogurt mango puuviljasuhkrutega Farmi 130g";"category":"SH-11-2-5";"brand":null;"price":0.86;"old_price":NaN;"discount_type":
+"id":"980929";"name":"Jogurt mustika Emma laktoosivaba 110g";"category":"SH-11-2-5";"brand":null;"price":0.87;"old_price":NaN;"discount_type":
+"id":"980931";"name":"Jogurt banaani Emma laktoosivaba 110g";"category":"SH-11-2-5";"brand":null;"price":0.87;"old_price":NaN;"discount_type":
+"id":"811316";"name":"Rohelised oliivid Rimi Basic paprik.180g/80g";"category":"SH-13-10-56";"brand":null;"price":0.87;"old_price":NaN;"discount_type":
+"id":"1354602";"name":"Vesi sidruni mahlaga gas. Aura Fruit 0,5l";"category":"SH-3-12-9";"brand":null;"price":0.87;"old_price":NaN;"discount_type":
+"id":"1356526";"name":"Vesi mustikamaitseline Aura Fruit 0,5l";"category":"SH-3-12-9";"brand":null;"price":0.87;"old_price":NaN;"discount_type":
+"id":"1361729";"name":"Maitsevesi Maasikas-Basiilik Aura 0,5l";"category":"SH-3-12-9";"brand":null;"price":0.87;"old_price":NaN;"discount_type":
+"id":"147445";"name":"Želatiin Dr.Oetker 20g";"category":"SH-13-13-80";"brand":null;"price":0.88;"old_price":NaN;"discount_type":
+"id":"1005504";"name":"Dipikastmesegu küüsl.&tšillimai. Estrella 13g";"category":"SH-9-1";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7258116";"name":"Antiikküünal 24,5cm ookra";"category":"SH-10-9-47";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7258121";"name":"Antiikküünal 24,5cm must";"category":"SH-10-9-47";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"207286";"name":"Vahvlitops vanil-šok.tk. Väike Tom 125ml";"category":"SH-4-1-7";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1007404";"name":"Vahvlibatoon Dumle Kismet 55g";"category":"SH-9-9-21";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1008167";"name":"Šokolaadibatoon pähkli 2-pakk Lion 60g";"category":"SH-9-9-21";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"987198";"name":"Jäätis maasika Vanilla Ninja gl. 60ml/42g";"category":"SH-4-1-9";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"987349";"name":"Arbuusisorbett Premia 73g /80ml";"category":"SH-4-1-5";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"814080";"name":"Suupiste kassile Nutribalance dental 50g";"category":"SH-7-1-2";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"992857";"name":"Kohupiim ricotta van. Piimam. Otto 200g";"category":"SH-11-4-21";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7233549";"name":"Joonlaud Centrum 30cm";"category":"SH-10-47";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7232787";"name":"Papptaldrikud Rimi Basic 18cm, 20tk";"category":"SH-10-4-10";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"108081";"name":"Leivake juustu-sibula Balsnack 80g";"category":"SH-6-4-10";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"295324";"name":"Kirsstomatid Rimi 1kl, 250g";"category":"SH-12-2-14";"brand":null;"price":0.89;"old_price":1.35;"discount_type":regular
+"id":"165345";"name":"Dipikaste hapukoore ja sibulaga Taffel 15g";"category":"SH-9-1";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1003128";"name":"Tee kummeli Herba 25x1,25g";"category":"SH-13-17-98";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7169019";"name":"Kraabits";"category":"SH-15-2-10";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1368292";"name":"Karastusjook Kelluke ploomi 0,5l";"category":"SH-3-7";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1368105";"name":"Vitam.jook Vitamineral Immunity 0,75l";"category":"SH-3-13";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7244390";"name":"Toidukile 29 cmx20 m Rimi basic";"category":"SH-10-6-34";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"912238";"name":"Jogurt tuubis vanilje Danonki 70g";"category":"SH-11-2-5";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"965034";"name":"Puding vanilli Alma 230g";"category":"SH-11-2-2";"brand":null;"price":0.89;"old_price":1.19;"discount_type":regular
+"id":"1003324";"name":"Šokolaadibatoon Nutbar Knoppers 40g";"category":"SH-9-9-21";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7249098";"name":"Pastapliiats Maxflow GP clear 0.7 must";"category":"SH-10-55";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7249111";"name":"Pastapliiats Maxflow GP clear 0.7 sinine";"category":"SH-10-55";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7195599";"name":"Tekstimarker ErichKrause V-12, kollane";"category":"SH-10-53";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7195608";"name":"Tekstimarker ErichKrause V-12, roosa";"category":"SH-10-53";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"7195610";"name":"Tekstimarker ErichKrause V-12, roheline";"category":"SH-10-53";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"162896";"name":"Vahvlibatoon maapähkli chunky KitKat 42g";"category":"SH-9-9-21";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"963446";"name":"Puding šokolaadi-metsapähkli Alma 230g";"category":"SH-11-2-2";"brand":null;"price":0.89;"old_price":1.19;"discount_type":regular
+"id":"963447";"name":"Puding karamelli Alma 230g";"category":"SH-11-2-2";"brand":null;"price":0.89;"old_price":1.19;"discount_type":regular
+"id":"1360355";"name":"Pepsi Max 0,33L Purk";"category":"SH-3-7";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"812518";"name":"Joogijogurt maasika Alpenrose 1kg";"category":"SH-11-2-6";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"952752";"name":"Jogurtimaius maasika Alma 200g";"category":"SH-11-2-5";"brand":null;"price":0.89;"old_price":1.19;"discount_type":regular
+"id":"910463";"name":"Jäätis šokol. Šok. gl. Vanilla Ninja 80g";"category":"SH-4-1-9";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"929669";"name":"Kreeka jogurt virsikutega Liisu 160g";"category":"SH-11-2-5";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"929687";"name":"Kreeka jogurt mustikatega Liisu 160g";"category":"SH-11-2-5";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"952755";"name":"Jogurtimaius mango Alma 200g";"category":"SH-11-2-5";"brand":null;"price":0.89;"old_price":1.19;"discount_type":regular
+"id":"955803";"name":"Maasika-banaanijogurt tuubis Danonki 70g";"category":"SH-11-2-5";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"273278";"name":"Peenleib Isa Leibur 355g";"category":"SH-6-3-14";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"810012";"name":"Puljongikuubikud juurvilja Rimi 120g";"category":"SH-13-8-43";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1359776";"name":"Alkoholivaba nisuõlu GO 0,5l";"category":"SH-3-1";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1359777";"name":"Alkoholivaba õlu GO Pilsner 0,5l";"category":"SH-3-1";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"107493";"name":"Puljong kana Maggi 120g";"category":"SH-13-8-43";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"804358";"name":"Kuivatatud dattel kivita Awake 150g";"category":"SH-9-4-11";"brand":null;"price":0.59;"old_price":0.89;"discount_type":loyalty
+"id":"803341";"name":"Jogurt Kreeka maitsestamata Rimi 180g";"category":"SH-11-2-8";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"812167";"name":"Mustad oliivid Rimi Basic kivideta 280g";"category":"SH-13-10-56";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"917022";"name":"Kreeka jogurt maitsestamata Alma 180g";"category":"SH-11-2-8";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"135491";"name":"Müslibatoon šokolaadi-banaani Corny 50g";"category":"SH-13-3-17";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"100801";"name":"Šokolaadibatoon Mars 51g";"category":"SH-9-9-21";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1365070";"name":"Karb.lood.mineraalvesi Värska Mineraal 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1357112";"name":"Vesi Vitamineral Power 0,75l";"category":"SH-3-13";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1363296";"name":"Vitam.jook Vitamineral Detox 0,75l";"category":"SH-3-13";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"161087";"name":"Dipikaste Tzatziki maitseline Estrella 12g";"category":"SH-9-1";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"171839";"name":"Dipikaste hapuk.- ja sibula Estrella 13g";"category":"SH-9-1";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"125124";"name":"Dipp Küüslaugukaste Taffel 14g";"category":"SH-9-1";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"201162";"name":"Jäätis vanilli Väike Tom 60g/90ml";"category":"SH-4-1-9";"brand":null;"price":0.69;"old_price":0.89;"discount_type":loyalty
+"id":"261595";"name":"Jäätis šokol. gl. pähkl. Väike Tom 60g";"category":"SH-4-1-9";"brand":null;"price":0.69;"old_price":0.89;"discount_type":loyalty
+"id":"1350490";"name":"Limonaad traditsiooniline A.Le Coq 0,5l";"category":"SH-3-7";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1356212";"name":"Karastusjook Kelluke 0,5l";"category":"SH-3-7";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1356213";"name":"Karastusjook Valge Klaar 0,5l";"category":"SH-3-7";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1356598";"name":"Gaseeritud jook Dr.Pepper 0,33l";"category":"SH-3-7";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"1360385";"name":"Pepsi 0,33L Purk";"category":"SH-3-7";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"273253";"name":"Jäätis lehmakommi Väike Tom 60g";"category":"SH-4-1-9";"brand":null;"price":0.69;"old_price":0.89;"discount_type":loyalty
+"id":"1370100";"name":"Karastusjook Barbariss 0,5l";"category":"SH-3-7";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"813829";"name":"Seajalad jahutatud Rimi kg";"category":"SH-8-14-25";"brand":null;"price":0.53;"old_price":NaN;"discount_type":
+"id":"1010523";"name":"Šokolaadibatoon Tupla Double Layer Maple 48g";"category":"SH-9-9-21";"brand":null;"price":0.89;"old_price":NaN;"discount_type":
+"id":"995926";"name":"Jogurtimaius rabarberi Alma 200g";"category":"SH-11-2-5";"brand":null;"price":0.89;"old_price":1.19;"discount_type":regular
+"id":"801792";"name":"Aedoad Rimi 400g/240g";"category":"SH-13-10-50";"brand":null;"price":0.9;"old_price":NaN;"discount_type":
+"id":"807756";"name":"Tomatid tükeldatud punega Rimi 400g";"category":"SH-13-10-63";"brand":null;"price":0.9;"old_price":NaN;"discount_type":
+"id":"141963";"name":"Vahukommid Fini Mix 90g";"category":"SH-9-6-12";"brand":null;"price":0.9;"old_price":NaN;"discount_type":
+"id":"1369182";"name":"Kange hele õlu Walter 7% 0,5l";"category":"SH-1-6";"brand":null;"price":0.9;"old_price":NaN;"discount_type":
+"id":"274904";"name":"Keefir Valio 2,5% 500g";"category":"SH-11-1";"brand":null;"price":0.91;"old_price":NaN;"discount_type":
+"id":"906169";"name":"Tosca saiake 100g";"category":"SH-6-6";"brand":null;"price":0.92;"old_price":NaN;"discount_type":
+"id":"813136";"name":"Mikropopkorn magus Rimi 90g";"category":"SH-9-8-19";"brand":null;"price":0.92;"old_price":NaN;"discount_type":
+"id":"977877";"name":"Jogurt jäätisemaits. kommi Sipsik 165g";"category":"SH-11-2-5";"brand":null;"price":0.92;"old_price":1.19;"discount_type":regular
+"id":"977882";"name":"Jogurt jäätisemaits. pallide Sipsik 165g";"category":"SH-11-2-5";"brand":null;"price":0.92;"old_price":1.19;"discount_type":regular
+"id":"196871";"name":"Vahvlibatoon valges šokol. chunky KitKat 40g";"category":"SH-9-9-21";"brand":null;"price":0.92;"old_price":NaN;"discount_type":
+"id":"102954";"name":"Küüslauguleivake Balsnack 80g";"category":"SH-6-4-10";"brand":null;"price":0.93;"old_price":NaN;"discount_type":
+"id":"627044";"name":"Hein närilistele Nature Living 250g";"category":"SH-7-3-9";"brand":null;"price":0.93;"old_price":NaN;"discount_type":
+"id":"810015";"name":"Puljongikuubikud kanamaitselised Rimi 120g";"category":"SH-13-8-43";"brand":null;"price":0.93;"old_price":NaN;"discount_type":
+"id":"100787";"name":"Pastillid puuvilja Mentos 38g";"category":"SH-9-3-2";"brand":null;"price":0.93;"old_price":NaN;"discount_type":
+"id":"100872";"name":"Pastillid münt Mentos 38g";"category":"SH-9-3-2";"brand":null;"price":0.93;"old_price":NaN;"discount_type":
+"id":"1365993";"name":"Mineraalvesi Sant'Anna gaseeritud 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.93;"old_price":NaN;"discount_type":
+"id":"7005661";"name":"Koeramaius Friskies Picnic Dog kana 42g";"category":"SH-7-2-5";"brand":null;"price":0.94;"old_price":NaN;"discount_type":
+"id":"7125337";"name":"Närimispulk Friskies Picnic koerale 42g";"category":"SH-7-2-5";"brand":null;"price":0.94;"old_price":NaN;"discount_type":
+"id":"901189";"name":"Sulatatud juust Sertop 100g";"category":"SH-11-3-15";"brand":null;"price":0.94;"old_price":NaN;"discount_type":
+"id":"901200";"name":"Sulatatud juust küüslauguga Sertop 100g";"category":"SH-11-3-15";"brand":null;"price":0.94;"old_price":NaN;"discount_type":
+"id":"927909";"name":"Leiva magustoit vahukoorega 160g";"category":"SH-16-2";"brand":null;"price":0.94;"old_price":NaN;"discount_type":
+"id":"803626";"name":"Pikateraline riis aurutatud Rimi 500g";"category":"SH-13-15-90";"brand":null;"price":0.94;"old_price":NaN;"discount_type":
+"id":"205877";"name":"Koolijäätis Väike Tom 60g/90ml";"category":"SH-4-1-9";"brand":null;"price":0.75;"old_price":0.94;"discount_type":loyalty
+"id":"981657";"name":"Kohupiim rosina Alma 200g";"category":"SH-11-4-21";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"981670";"name":"Kohupiim vanilli Alma 200g";"category":"SH-11-4-21";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"981671";"name":"Kohupiim lahja Alma 200g";"category":"SH-11-4-21";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"981672";"name":"Kohupiim 4% Alma 200g";"category":"SH-11-4-21";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"201173";"name":"Jäätis šokolaadi Väike Tom 60g/90ml";"category":"SH-4-1-9";"brand":null;"price":0.75;"old_price":0.95;"discount_type":loyalty
+"id":"946398";"name":"Fiori mooniga 96g";"category":"SH-6-6";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"974079";"name":"Panna Cotta vanilje Farmi 150g";"category":"SH-11-2-2";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"974807";"name":"Rabarberi-kaneelipalmik 80g";"category":"SH-6-6";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"1355116";"name":"Mineraalvesi Vytautas naturaalne 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"7035929";"name":"Sinepiplaaster Medrull N10";"category":"SH-2-12-73";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"1005046";"name":"Šokolaadibatoon white nougat Tupla 48g";"category":"SH-9-9-21";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"1003206";"name":"Šokolaadimunad Kiddy 20g";"category":"SH-9-6-11";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"958745";"name":"Kanapallid 360g";"category":"SH-8-12-30";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"136901";"name":"Vormiküpsised Kalev 163g";"category":"SH-9-5-5";"brand":null;"price":0.65;"old_price":0.95;"discount_type":loyalty
+"id":"947415";"name":"Regatt vanilli pulgajäätis 55g/100ml";"category":"SH-4-1-9";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"902665";"name":"K.jäätis Regatt vahvlitops Premia 125ml/65g";"category":"SH-4-1-7";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"918094";"name":"Kohvikoor Alma 10% 380ml";"category":"SH-11-5-24";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"279166";"name":"Ruks Leibur 390g";"category":"SH-6-3-15";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"298346";"name":"Rukkitasku Eesti Pagar 340g";"category":"SH-6-2-12";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"260620";"name":"Teratasku Eesti Pagar 280g";"category":"SH-6-2-12";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"801780";"name":"Nelja oa segu Rimi 400g/240g";"category":"SH-13-10-50";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"801781";"name":"Aedoad pruunid Rimi 400g/240g";"category":"SH-13-10-50";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"801793";"name":"Aedoad punased tšillikastmes Rimi 400g/200g";"category":"SH-13-10-50";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"808100";"name":"Mais magus konserveeritud Rimi Basic 340g";"category":"SH-13-10-52";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"808449";"name":"Aedoad punased Rimi 400g/240g";"category":"SH-13-10-50";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"808455";"name":"Aedoad tomatikastmes Rimi 400g/200g";"category":"SH-13-10-50";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"808456";"name":"Aedoad valged Rimi 400g/240g";"category":"SH-13-10-50";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"808719";"name":"Peet marineeritud Rimi Basic 450g/350g";"category":"SH-13-10-55";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"804235";"name":"Hernes roheline konserv. Rimi Basic 690g/450g";"category":"SH-13-10-49";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"801015";"name":"Mahl tomati Rimi 1l";"category":"SH-3-8-1";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"161026";"name":"Koriander, purustatud Santa Maria 20g";"category":"SH-13-12-76";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"161027";"name":"Petersell Santa Maria 4g";"category":"SH-13-12-76";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"161028";"name":"Prantsuse ürdisegu Santa Maria 6g";"category":"SH-13-12-76";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"100588";"name":"Sinepiseemned Santa Maria 35g";"category":"SH-13-12-76";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"177304";"name":"Šokolaadibatoon Tupla Maxi 50g";"category":"SH-9-9-21";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"1350362";"name":"Mineraalvesi Värska Originaal 0,5l";"category":"SH-3-12-8";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"931998";"name":"Regatt brikett vahvlitega 90g/180ml";"category":"SH-4-1-7";"brand":null;"price":0.95;"old_price":NaN;"discount_type":
+"id":"811854";"name":"Koerasööt Nutribalance veise,kanal. 150g";"category":"SH-7-2-4";"brand":null;"price":0.96;"old_price":NaN;"discount_type":
+"id":"811859";"name":"Koerasööt Nutribalance kana,kalkun. 150g";"category":"SH-7-2-4";"brand":null;"price":0.96;"old_price":NaN;"discount_type":
+"id":"811619";"name":"Kartulipüree Rimi Express saiakuub. 58g";"category":"SH-13-8-40";"brand":null;"price":0.96;"old_price":NaN;"discount_type":
+"id":"811565";"name":"Oad Rimi mustad 400g/240g";"category":"SH-13-10-50";"brand":null;"price":0.96;"old_price":NaN;"discount_type":
+"id":"193325";"name":"Mustsõstra-õunaribake magus Bob Snail 14g";"category":"SH-13-1-8";"brand":null;"price":0.96;"old_price":NaN;"discount_type":
+"id":"163314";"name":"Karamellid puuvilja Bon Pari Original 90g";"category":"SH-9-3-3";"brand":null;"price":0.96;"old_price":NaN;"discount_type":
+"id":"1007224";"name":"Kiirkaerapuder vaarikatega Activus 60g";"category":"SH-13-2-12";"brand":null;"price":0.71;"old_price":0.97;"discount_type":loyalty
+"id":"1007223";"name":"Kiirtatrapuder kanaga Activus 60g";"category":"SH-13-2-12";"brand":null;"price":0.71;"old_price":0.97;"discount_type":loyalty
+"id":"1007233";"name":"Kiirkaerapuder maasikatega Activus 60g";"category":"SH-13-2-12";"brand":null;"price":0.71;"old_price":0.97;"discount_type":loyalty
+"id":"974564";"name":"Jäätis Cookie Red Super Viva 105ml/64g";"category":"SH-4-1-7";"brand":null;"price":0.97;"old_price":NaN;"discount_type":
+"id":"139473";"name":"Šokolaadibatoon Daim 2-pakk 56g";"category":"SH-9-9-21";"brand":null;"price":0.97;"old_price":NaN;"discount_type":
+"id":"1359670";"name":"Mineraalvesi karboniseerimata Neptunas 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.97;"old_price":NaN;"discount_type":
+"id":"1359674";"name":"Mineraalvesi karboniseeritud Neptunas 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.97;"old_price":NaN;"discount_type":
+"id":"1005466";"name":"Multinektar Loodusvägi mahe 0,2l";"category":"SH-3-8-3";"brand":null;"price":0.98;"old_price":NaN;"discount_type":
+"id":"179911";"name":"Punase viinamarja nektar Loodusvägi mahe 0,2l";"category":"SH-3-8-3";"brand":null;"price":0.98;"old_price":NaN;"discount_type":
+"id":"811620";"name":"Nuudlid Rimi Express juustukastmes 60g";"category":"SH-13-8-39";"brand":null;"price":0.98;"old_price":NaN;"discount_type":
+"id":"971731";"name":"Passioni-vanillisaiake 110g";"category":"SH-6-6";"brand":null;"price":0.98;"old_price":NaN;"discount_type":
+"id":"978280";"name":"Brokoli RIMI 350g";"category":"SH-12-2-8";"brand":null;"price":0.99;"old_price":1.29;"discount_type":regular
+"id":"7243947";"name":"Küürimisnuustikud 80x50 10tk SS22";"category":"SH-10-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"930836";"name":"Vaarikakohupiimakreem Nopri 100g";"category":"SH-19-1";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1370099";"name":"Mahlajook Dr. Active rohelise õuna-mündi 0,5l";"category":"SH-3-8-2";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"986283";"name":"Jäätis vaarika remix Magnum 85ml/66g";"category":"SH-4-1-9";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"986290";"name":"Jäätis mandli remix Magnum 85ml/66g";"category":"SH-4-1-9";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1006128";"name":"Martsipanibatoon klassikaline Kalev 40g";"category":"SH-9-9-21";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1006129";"name":"Martsipanibatoon Vana Tallinn Kalev 40g";"category":"SH-9-9-21";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"987172";"name":"Jäätis sok. küpsise Super Viva 105ml/66g";"category":"SH-4-1-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"978540";"name":"Jogurt Kreeka 0,2% Actifeel 300g";"category":"SH-11-2-8";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"986891";"name":"Jogurt kiud. kookose-apelsini Tere 150 g";"category":"SH-11-2-3";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1370986";"name":"Alk.v.kokteil Le Coq Virgin Blue Lagoon 0,33l";"category":"SH-3-2";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7269107";"name":"Kleebis 45x12mm AW22";"category":"SH-10-7-40";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7269130";"name":"Kleebis 45x12mm AW22";"category":"SH-10-7-40";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"283668";"name":"Nuikapsas tk";"category":"SH-12-2-8";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"811468";"name":"Püree I Love Eco pirni 4k 90g";"category":"SH-5-6-23";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"811474";"name":"Püree I Love Eco pastina.-kartul 4k 90g";"category":"SH-5-6-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"811478";"name":"Püree I Love Eco porg.-õun-mango 6k 90g";"category":"SH-5-6-23";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"811486";"name":"Püree I Love Eco bat.-õun-apriko. 6k 90g";"category":"SH-5-6-23";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"904650";"name":"Kapsas punane, kg Eesti";"category":"SH-12-2-8";"brand":null;"price":1.98;"old_price":NaN;"discount_type":
+"id":"610060";"name":"Akvarelliplokk A4 210g 10 lehte";"category":"SH-10-58";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7233521";"name":"Lehekaitsed A4 Centrum 20 tükki 0,025mm";"category":"SH-10-48";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7231015";"name":"Mapp A4 AW22";"category":"SH-10-48";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7231175";"name":"Veetops 8x9cm AW22";"category":"SH-10-7-39";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7231179";"name":"Korrektuurlint 0,5cmx8m AW22";"category":"SH-10-49";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7231219";"name":"Palett 23x17cm AW22";"category":"SH-10-7-39";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7231224";"name":"Kleeplint 2tk 15mmx25m AW22";"category":"SH-10-52";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7231241";"name":"Joonlaud 4tk AW22";"category":"SH-10-47";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"192834";"name":"Kurkum jahvatatud Santa Maria 20g";"category":"SH-13-12-76";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"804905";"name":"Ühekordsed raseerijad Oreon meestele 5tk";"category":"SH-2-10-56";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"718457";"name":"Kalmuküünal 10tööaeg SU-86";"category":"SH-10-9-45";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"961228";"name":"Seemnetega peenleib 480g";"category":"SH-6-6";"brand":null;"price":0.99;"old_price":1.49;"discount_type":regular
+"id":"912031";"name":"Must Rukkileib Eesti Pagar 390g";"category":"SH-6-3-15";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1003126";"name":"Tee kibuvitsa-hibiski Herba 25x2g";"category":"SH-13-17-96";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1003130";"name":"Tee apteegitilli Herba 25x1,75g";"category":"SH-13-17-98";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1003131";"name":"Tee piparmündi Herba 25x1,5g";"category":"SH-13-17-98";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1362573";"name":"Karb.karastusjook Pepsi Max 0,5l pet";"category":"SH-3-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1368293";"name":"Mahlajook Dr. Active mustika-jõhvika 0,5l";"category":"SH-3-8-2";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7191788";"name":"Koeraeine Cesar kana&köögiviljar. 100g";"category":"SH-7-2-4";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7191789";"name":"Koeraeine Cesar veis&köögiviljad 100g";"category":"SH-7-2-4";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7245961";"name":"Kassisööt Sheba kana tarrendis 85g";"category":"SH-7-1-1";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7250082";"name":"Koeramaius Akinu Treatstick roll veis 12tk";"category":"SH-7-2-5";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"813282";"name":"Mahe püree Õun.Kookos. I Love Eco 90g";"category":"SH-5-6-23";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"813292";"name":"Püree I Love Eco õun-mango-ban.-gra. 90g";"category":"SH-5-6-23";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7249034";"name":"Seep Palmolive Hygiene Plus Aloe 90g";"category":"SH-2-6-40";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"173717";"name":"Kummikommid watermelon slices Vidal 100g";"category":"SH-9-3-2";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7249037";"name":"Seep Palmolive Hyg. Eucalyptus 90g";"category":"SH-2-6-40";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7249097";"name":"Pastapliiats Ultraglide 1.0 sinine";"category":"SH-10-55";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7249110";"name":"Pastapliiats Ultraglide 1.0 must";"category":"SH-10-55";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7249112";"name":"Geelpliiats Maxgel 0.5 must";"category":"SH-10-56";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7249113";"name":"Geelpliiats Maxgel 0.5 sinine";"category":"SH-10-56";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7233524";"name":"Käärid Centrum 13cm";"category":"SH-10-51";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7248411";"name":"Pastapliiats Emojidex 0,7mm AW21";"category":"SH-10-55";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"211258";"name":"Pomel, kg";"category":"SH-12-5-29";"brand":null;"price":1.19;"old_price":1.89;"discount_type":regular
+"id":"296797";"name":"Küüslauk Rimi 100g";"category":"SH-12-1-6";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"944265";"name":"Aurutatud riivitud peet Rimi 350g";"category":"SH-12-9";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7198944";"name":"Salvrätikud valge 100tk 33x33cm";"category":"SH-10-4-8";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7186180";"name":"Korrektuurvärv Arctic White Extra 20ml";"category":"SH-10-49";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"265509";"name":"Kohupiim magus vanilli Tere 0,1% 200g";"category":"SH-11-4-21";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"136898";"name":"Vormiküpsised rosina Kalev 163g";"category":"SH-9-5-5";"brand":null;"price":0.69;"old_price":0.99;"discount_type":loyalty
+"id":"136900";"name":"Vormiküpsised sidruni Kalev 163g";"category":"SH-9-5-5";"brand":null;"price":0.69;"old_price":0.99;"discount_type":loyalty
+"id":"136902";"name":"Vormiküpsised vanilli Kalev 163g";"category":"SH-9-5-5";"brand":null;"price":0.69;"old_price":0.99;"discount_type":loyalty
+"id":"451292";"name":"Hambaorgid 6.8cm";"category":"SH-10-4-11";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"811485";"name":"Püree I Love Eco porg,kartul 4k 90g";"category":"SH-5-6-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"804871";"name":"Hambahari Oreon Soft 1tk";"category":"SH-2-11-66";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"804872";"name":"Hambahari Oreon Medium 1tk";"category":"SH-2-11-66";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"805167";"name":"Püree õun-banaan-aprikoos I Love Eco 90g";"category":"SH-5-6-23";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"805179";"name":"Püree I Love Eco õun-banaan-pirn 6k 90g";"category":"SH-5-6-23";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"805181";"name":"Püree I Love Eco õun-banaan-maasikas 90g";"category":"SH-5-6-23";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"119437";"name":"Koeramaiused Pedigree Rodeo, 4tk, 70g";"category":"SH-7-2-5";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"812015";"name":"Kosmeetilised vatipadjad Almeda 120tk.";"category":"SH-2-3-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"812266";"name":"Vatitikud karbis Almeda 200tk.";"category":"SH-2-3-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"812267";"name":"Vatipulgad Almeda 200tk.";"category":"SH-2-3-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7053535";"name":"Kiisueine Sheba Cusine lõhe 85g";"category":"SH-7-1-1";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7053537";"name":"Kiisueine Sheba Cusine kanalihaga 85g";"category":"SH-7-1-1";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7053538";"name":"Kiisueine Sheba Cusine tuunik Täiss. 85g";"category":"SH-7-1-1";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7178771";"name":"Vatipadjad Spa Cotton Bamboo 120tk";"category":"SH-2-3-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"939469";"name":"Peedi-küüslaugusalat 200g";"category":"SH-16-6";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"299854";"name":"Sibul Rimi 1kg";"category":"SH-12-1-6";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"812296";"name":"Kons. valged aedoad Rimi Basic 400/240g";"category":"SH-13-10-50";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1366990";"name":"Kali Karl Friedrich Mustsõstar 0,5l purk";"category":"SH-3-6";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"800750";"name":"Küürimissvamm Marine 10 tk 2,5x8x5cm";"category":"SH-10-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1366924";"name":"Mahlajook Dr.Acitve õuna-arbuusi 0,5l";"category":"SH-3-8-2";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"136632";"name":"Närimiskommid Fritt 70g";"category":"SH-9-3-2";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"805069";"name":"Pikateraline riis Rimi Basic 4x100g";"category":"SH-13-15-91";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"125483";"name":"Karamellid apelsini Kalev Caramel 120g";"category":"SH-9-3-3";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"125484";"name":"Karamellid eukalüpti&ment. Kalev Caramel 120g";"category":"SH-9-3-3";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"808188";"name":"Nisutang Rimi Basic 800g";"category":"SH-13-18-103";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"265507";"name":"Kohupiim Tere 5% 200g";"category":"SH-11-4-21";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"200150";"name":"Sai Kodusai Fazer 300g";"category":"SH-6-7-22";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"812241";"name":"Keeduvorst Rimi Basic 1kg";"category":"SH-8-4";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"812293";"name":"Maksapasteet keedetud Rimi Basic 120g";"category":"SH-8-18";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"905365";"name":"Hapukoor Alma 10% 250g";"category":"SH-11-5-22";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"270271";"name":"Must vormileib Eesti Pagar 280g";"category":"SH-6-3-15";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"277956";"name":"Rukkileib Pärnu ELT 600g";"category":"SH-6-3-15";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"298347";"name":"Rukkisepik Eesti Pagar 300g";"category":"SH-6-8";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"809401";"name":"Kuivikud rosinatega Rimi 200g";"category":"SH-6-4-10";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1364365";"name":"Õlu Saku Originaal 4,7%vol 0,33l prk";"category":"SH-1-6";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"205757";"name":"Kohupiimakreem vanilli Alma 300g";"category":"SH-11-4-21";"brand":null;"price":0.99;"old_price":1.19;"discount_type":regular
+"id":"206617";"name":"Sepik Õnne Eesti Pagar 300g";"category":"SH-6-8";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"802566";"name":"Konserveeritud pepperoni pipar Rimi 110/50g";"category":"SH-13-10-57";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"952354";"name":"Kartul kollane pestud, kg Eesti";"category":"SH-12-1-1";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1354921";"name":"Siider Somersby Apple 4,5%vol 0,33l";"category":"SH-1-8";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1354922";"name":"Perry Somersby Pear 4,5%vol 0,33l";"category":"SH-1-8";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"810849";"name":"Konserv. roheline hernes Rimi 200g/140g";"category":"SH-13-10-49";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"912843";"name":"Lastevorst Valla 240g";"category":"SH-8-4";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"276041";"name":"Kartul punane pestud, kg Eesti";"category":"SH-12-1-1";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"135498";"name":"Müslibatoon jõhvika Corny 50g";"category":"SH-13-3-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"801004";"name":"Mahl õuna Rimi 1l";"category":"SH-3-8-1";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"803422";"name":"Nektar banaani Rimi 1l";"category":"SH-3-8-3";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"145833";"name":"Müslibatoon piimašhokolaadi Corny 50g";"category":"SH-13-3-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"155423";"name":"Müslibatoon kookosega Corny 50g";"category":"SH-13-3-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"183055";"name":"Kiirkaerahelbed täistera Tartu Mill 500g";"category":"SH-13-2-9";"brand":null;"price":0.99;"old_price":1.39;"discount_type":regular
+"id":"125481";"name":"Karamellid pirni Kalev Caramel 120g";"category":"SH-9-3-3";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"132289";"name":"Valge šokolaad Kinder Bueno 39g";"category":"SH-9-9-21";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"100803";"name":"Piimašokolaadibatoon Bounty 57g";"category":"SH-9-9-21";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"142093";"name":"Pastillid Extra Strong Lockets 41g";"category":"SH-9-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"100309";"name":"Sinep kange Põltsamaa 65g";"category":"SH-13-6-30";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"101170";"name":"Šokolaadimuna mänguasjaga Kinder Surprise 20g";"category":"SH-9-6-11";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"102834";"name":"Maitseainesegu Vegeta 75g";"category":"SH-13-12-78";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"103749";"name":"Pastillid mee-sidruni Lockets 41g";"category":"SH-9-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1363768";"name":"Mahlajook Dr.Active apels-ananass-porg. 0,5l";"category":"SH-3-8-2";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1365727";"name":"Kali Karl Friedrich 0,5l";"category":"SH-3-6";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"155663";"name":"Pastillid Spearmint Orbit 28g";"category":"SH-9-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"159154";"name":"Mikropopkorn soolane Estrella 90g";"category":"SH-9-8-19";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"159155";"name":"Mikropopkorn võimaitseline Estrella 90g";"category":"SH-9-8-19";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"200262";"name":"Hapukoor Alma 20% 250g";"category":"SH-11-5-22";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"201000";"name":"Jäätisebatoon Snickers 48g/53ml";"category":"SH-4-1-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1350156";"name":"Karastusjook Coca Cola 0,5l";"category":"SH-3-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1353151";"name":"Karastusjook Coca-Cola Zero 0,5l";"category":"SH-3-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1360358";"name":"Sidruni- ja laimimaits.karastusjook 7Up 0,5l";"category":"SH-3-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1360392";"name":"Karastusjook Pepsi Cola 0,5l";"category":"SH-3-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1360400";"name":"Apelsinimaits.karastusjook Mirinda 0,5l";"category":"SH-3-7";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1359667";"name":"Mineraalvesi Akvile karboniseerimata 1,5l";"category":"SH-3-12-8";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1371326";"name":"Kali Rukkilinnase A. Le Coq 0,5l purk";"category":"SH-3-6";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"995529";"name":"Saaremaa porgand 500g";"category":"SH-12-1-4";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"1372018";"name":"Siider Somersby Winter Cider 4,5% 0,33l pudel";"category":"SH-1-8";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7245731";"name":"Suupistekauss 90X67X35mm AW22";"category":"SH-10-6-26";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7276564";"name":"Kokteilikahvel bambusest 100tk AW22";"category":"SH-10-4-11";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"989370";"name":"Dessert tiramisu Ehrmann 190g";"category":"SH-11-2-2";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"996246";"name":"Kohupiimahõrgutis muraka Alma 150g";"category":"SH-11-4-21";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"813500";"name":"Võileivakotid Rimi Bacis 2l 20x30cm 80tk";"category":"SH-10-6-34";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"813501";"name":"Jääkuubiku kotid Rimi Bacis 24x10 240 tükki";"category":"SH-10-6-34";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7276677";"name":"Pastapliiats Christmas sinine 0,7mm AW22";"category":"SH-10-55";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7276684";"name":"Pastapliiats Christmas sinine tint AW22";"category":"SH-10-55";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"996234";"name":"Kohupiimahõrgutis kirsi Alma 150g";"category":"SH-11-4-21";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"996235";"name":"Kohupiimahõrgutis mango-passioni Alma 150g";"category":"SH-11-4-21";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"814346";"name":"Püree mango ja ananassiga ICA 120g";"category":"SH-5-6-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"814347";"name":" Püree maasikate ja banaanidega ICA 120g";"category":"SH-5-6-17";"brand":null;"price":0.99;"old_price":NaN;"discount_type":
+"id":"7232880";"name":"Kummikindad kollased SS23";"category":"SH-10-5-25";"brand":null;"price":1;"old_price":NaN;"discount_type":
+"id":"810208";"name":"Jahutatud Krabimaitselised pulgad 150g";"category":"SH-8-7";"brand":null;"price":1;"old_price":NaN;"discount_type":
+"id":"812107";"name":"Universaalne vürtsisegu Rimi Basic 250g";"category":"SH-13-12-78";"brand":null;"price":1;"old_price":NaN;"discount_type":
+"id":"7225585";"name":"Näomask Medrull (kummidega) 3-k. N5";"category":"SH-2-12-74";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"987381";"name":"Mahlajäätis arbuusi-õuna Kaktus 45ml/48g";"category":"SH-4-1-5";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"7233557";"name":"Permanentne marker ErichKrause P70, must";"category":"SH-10-57";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"402117";"name":"Happepuhasti SANIT-M 500ML";"category":"SH-10-18-81";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"1367429";"name":"Alk.vaba õlu Clausthaler Grapefruit 0,33l";"category":"SH-3-1";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"279877";"name":"Vaniljejogurt šok. nööpidega Danone 125g";"category":"SH-11-2-5";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"969526";"name":"Koorekreem pistaatsiamaitseline Karums 150g";"category":"SH-11-2-2";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"974122";"name":"Kaera köögikreem 15% Tere Deary 250ml";"category":"SH-17-9-2";"brand":null;"price":1.05;"old_price":1.39;"discount_type":regular
+"id":"970972";"name":"Haputaina Pehmik 240g";"category":"SH-6-2-10";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"177913";"name":"Guacamole-kastme maitseainesegu S.M. 15g";"category":"SH-13-11-68";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"7237185";"name":"Tordivulkaan  15cm";"category":"SH-10-4-4";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"1368721";"name":"Alk.vaba kokteil Le Coq Virgin Mojito 0,33l";"category":"SH-3-2";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"7250083";"name":"Koeramaius Akinu veise ribad 12tk 120g";"category":"SH-7-2-5";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"1004506";"name":"Pastakaste Spaghetti 4-juustu Maggi 37g";"category":"SH-13-8-38";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"1004520";"name":"Pastakaste Spaghetti al Pomodoro Maggi 46g";"category":"SH-13-8-38";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"918382";"name":"Kohupiimakreem creme brulee Alma 150g";"category":"SH-11-4-21";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"918672";"name":"Kohup.kreem šokolaaditükkidega Alma 150g";"category":"SH-11-4-21";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"952658";"name":"Kohupiimakreem metsmaasika Alma 150g";"category":"SH-11-4-21";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"917965";"name":"Classic Lavash LameLeib 120g";"category":"SH-6-5";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"801665";"name":"Vatitikud Loving Touch karbis 60tk";"category":"SH-5-1-1";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"132932";"name":"Piimašokolaad tervete pähklitega Milka 100g";"category":"SH-9-9-20";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"812599";"name":"Pähklibatoon Rimi mandlitega 35g";"category":"SH-13-3-17";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
+"id":"812592";"name":"Pähklibatoon Rimi pekaanipähklitega 35g";"category":"SH-13-3-17";"brand":null;"price":1.05;"old_price":NaN;"discount_type":
