@@ -3,6 +3,8 @@ import pandas as pd
 
 # this code takes a .txt file of rimi info and creates a neat .csv file with irrelevant categories sorted out
 
+# a test of branching into main
+
 file = 'rimi01.10'
 
 scrape = open("C:/Users/krist/PycharmProjects/pythonProject/kraapsud/kraap_" + file + ".txt", encoding="UTf-8")
