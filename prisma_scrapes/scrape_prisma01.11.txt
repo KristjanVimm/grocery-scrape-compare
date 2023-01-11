@@ -1,0 +1,185 @@
+4740669002279;Translation missing: et.origin_na, Viinamari hele Early Sweet karbis 500 g;Puu- ja juurviljad,Puuviljad;2.99;NaN
+7340011428497;RAINBOW, Kiivi karbis, 500g;Puu- ja juurviljad,Puuviljad;1.99;NaN
+6414894500234;RAINBOW, Apelsin Navelina I klass 1kg;Puu- ja juurviljad,Puuviljad;0.99;NaN
+7340011432371;RAINBOW, Avokaado pakitud 800 g;Puu- ja juurviljad,Puuviljad;4.59;NaN
+5997690711574;Õunakrõps Golden 40g;Puu- ja juurviljad,Puuviljad;1.59;NaN
+5997690707874;Õunakrõps Jonathan 40g;Puu- ja juurviljad,Puuviljad;1.59;NaN
+6414890440176;Holland, Pirn Conference pakitud 1 kg;Puu- ja juurviljad,Puuviljad;1.49;NaN
+2060430700008;Belgia, Õun Golden,  I klass;Puu- ja juurviljad,Puuviljad;1.79;NaN
+2060490100008;Costa rica, Ananass Rainbow;Puu- ja juurviljad,Puuviljad;1.89;NaN
+2060490500006;Brasiilia, Kollane melon;Puu- ja juurviljad,Puuviljad;1.79;NaN
+2060490600003;Tšiili, Avokaado Hass, söögivalmis;Puu- ja juurviljad,Puuviljad;5.99;NaN
+2060493000008;Brasiilia, Laim;Puu- ja juurviljad,Puuviljad;3.79;NaN
+2060493100005;Hispaania, Melon Roheline;Puu- ja juurviljad,Puuviljad;2.79;NaN
+2060505200006;Iisrael, Greip Jaffa valge;Puu- ja juurviljad,Puuviljad;2.89;NaN
+2060514600002;Poola, Õun  Paulared, II klass;Puu- ja juurviljad,Puuviljad;0.59;NaN
+2060515000009;Prantsusmaa, Õun Granny Smith, I klass;Puu- ja juurviljad,Puuviljad;2.19;NaN
+2060515100006;Lav, Õun Royal Gala,  I klass;Puu- ja juurviljad,Puuviljad;1.59;NaN
+2060516200002;Itaalia, Õun Red Delicios I klass;Puu- ja juurviljad,Puuviljad;2.19;NaN
+2060514700009;Holland, Õun Tessa I klass;Puu- ja juurviljad,Puuviljad;3.99;NaN
+8437010537158;Pom´bel õuna-banaani-maasika puuviljamiks, 4x100 g;Puu- ja juurviljad,Puuviljad;2.49;NaN
+2060441100002;Poola, Pirn Xenia I klass;Puu- ja juurviljad,Puuviljad;1.99;NaN
+2060400700007;Leedu, Banaan  chiquita,;Puu- ja juurviljad,Puuviljad;1.29;NaN
+2060531200001;Hiina, Pomel;Puu- ja juurviljad,Puuviljad;1.79;NaN
+8718366803136;Eesti, Füüsal 100 g;Puu- ja juurviljad,Puuviljad;1.69;NaN
+2060492300000;Kolumbia, Granadill;Puu- ja juurviljad,Puuviljad;11.99;NaN
+6414894500609;RAINBOW, Hele viinamari Prime Seedless, seemneteta 500 g;Puu- ja juurviljad,Puuviljad;3.49;NaN
+6414894500401;RAINBOW, Tume viinamari Sugarthreen seemneteta 500g;Puu- ja juurviljad,Puuviljad;3.99;NaN
+2060431500003;Eesti, Õun Talvenauding I klass;Puu- ja juurviljad,Puuviljad;3.29;NaN
+8713037000241;Mehhiko, Avokaado, mahe 300 g;Puu- ja juurviljad,Puuviljad;3.99;NaN
+8713037001071;Itaalia, Kiivi mahe 300 g;Puu- ja juurviljad,Puuviljad;1.99;NaN
+2060402500001;Hispaania, Klementiin I klass;Puu- ja juurviljad,Puuviljad;3.49;NaN
+6405940735090;Elevandiluurannik, Kookospähkel;Puu- ja juurviljad,Puuviljad;2.29;NaN
+2060460200004;Türgi, Viinamari Red Magic, I klass;Puu- ja juurviljad,Puuviljad;3.99;NaN
+6414894500241;Hispaania, Rainbow klementiin I klass 1 kg;Puu- ja juurviljad,Puuviljad;1.69;NaN
+8437010537165;Pom´bel õuna-mango puuviljamiks, 4x100 g;Puu- ja juurviljad,Puuviljad;2.79;NaN
+2060400200002;Hispaania, Apelsin Navelina I klass;Puu- ja juurviljad,Puuviljad;1.89;NaN
+2060400600000;Iisrael, Greip Star Ruby punane;Puu- ja juurviljad,Puuviljad;1.79;NaN
+2060400800004;Hispaania, Sidrun, II klass;Puu- ja juurviljad,Puuviljad;1.99;NaN
+2060430500004;Türgi, Granaatõun;Puu- ja juurviljad,Puuviljad;2.39;NaN
+2060160500008;Peruu, Mango Osteen;Puu- ja juurviljad,Puuviljad;3.79;NaN
+2060162900004;Itaalia, Verimandariin mandared;Puu- ja juurviljad,Puuviljad;3.99;NaN
+2060177900006;Holland, Pirn Sweet Sensation I Klass;Puu- ja juurviljad,Puuviljad;3.29;NaN
+2060212300006;Pomelo Redson Jaffa;Puu- ja juurviljad,Puuviljad;3.99;NaN
+8437013783293;Viinamari karbis Tume Moldova 500g;Puu- ja juurviljad,Puuviljad;1.99;NaN
+2060492900002;Tšiili, Kiivi,  II klass;Puu- ja juurviljad,Puuviljad;1.59;NaN
+2060432600009;Prantsusmaa, Õun Honey Crunch I klass;Puu- ja juurviljad,Puuviljad;3.59;NaN
+2060460800006;Viinamari tume Dark Moldova I klass;Puu- ja juurviljad,Puuviljad;2.39;NaN
+2060494500002;RAINBOW, Arbuus;Puu- ja juurviljad,Puuviljad;2.29;NaN
+2060402900009;Hispaania, Apelsin Cara cara I klass;Puu- ja juurviljad,Puuviljad;2.49;NaN
+8718366857269;Tšiili, Avokaado, söögivalmis 2 tk;Puu- ja juurviljad,Puuviljad;1.99;NaN
+2060442000004;Holland, Pirn Conference, I klass;Puu- ja juurviljad,Puuviljad;1.39;NaN
+2060433700005;Holland, Õun Jonagold I  klass;Puu- ja juurviljad,Puuviljad;0.89;NaN
+4740669014500;Itaalia, Veriapelsin Tarocco 1 kg I klass;Puu- ja juurviljad,Puuviljad;2.99;NaN
+4742022670033;Eesti, Datlid taldrikul 200 g;Puu- ja juurviljad,Puuviljad;1.19;NaN
+2060138400002;Peruu, Banaan Fair Trade;Puu- ja juurviljad,Puuviljad;2.09;NaN
+2060159200001;Iisrael, Sweetie Jaffa I klass;Puu- ja juurviljad,Puuviljad;2.99;NaN
+5902021230457;Poola, Õun Royal Gala, I klass, 1 kg;Puu- ja juurviljad,Puuviljad;1.59;NaN
+2060441600007;Holland, Pirn Lukas I klass;Puu- ja juurviljad,Puuviljad;1.99;NaN
+2060242900009;Brasiilia, Viinamari hele Sugar Cisp seemneta;Puu- ja juurviljad,Puuviljad;3.59;NaN
+8718963049722;Kiivi söömisküps 4 tk pakis;Puu- ja juurviljad,Puuviljad;3.29;NaN
+2060177800009;Itaalia, Feijoa;Puu- ja juurviljad,Puuviljad;8.99;NaN
+7290104570179;Iisrael, Dattel medjoul 500g;Puu- ja juurviljad,Puuviljad;7.99;NaN
+4741116000015;GRÜNE FEE, Lehtsalat  potis;Puu- ja juurviljad,Köögiviljad;1.29;NaN
+4740669040127;Metsik rukola, 100 g;Puu- ja juurviljad,Köögiviljad;1.99;NaN
+4740669029061;Holland, Sibul võrgus;Puu- ja juurviljad,Köögiviljad;1.19;NaN
+4740669040066;Salat Mesculum, 100 g;Puu- ja juurviljad,Köögiviljad;1.99;NaN
+4740669040073;Beebi lehtsalati mix, 100 g;Puu- ja juurviljad,Köögiviljad;2.09;NaN
+4740669030203;Maroko, Kirss-ploomtomat, I klass, 250 g;Puu- ja juurviljad,Köögiviljad;0.89;NaN
+4740669040141;Beebi  spinat, 100 g;Puu- ja juurviljad,Köögiviljad;1.69;NaN
+6414894500623;RAINBOW, Paprika mix, I klass, 400 g;Puu- ja juurviljad,Köögiviljad;2.59;NaN
+4740175000059;KADARBIKU TALU, Hapukapsas porgandiga pakitud 1 kg;Puu- ja juurviljad,Köögiviljad;2.19;NaN
+6416332000177;Mahe idusalat, 150g;Puu- ja juurviljad,Köögiviljad;1.99;NaN
+4741116000169;GRÜNE FEE, Salat  Frillice potis;Puu- ja juurviljad,Köögiviljad;1.69;NaN
+4740684000045;Peipsi hapukurk ämbris, 500 g;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+6414894500128;KOTIMAISTA, Jääsalat potis;Puu- ja juurviljad,Köögiviljad;1.59;NaN
+2060521800006;Holland, Salatisibul;Puu- ja juurviljad,Köögiviljad;1.59;NaN
+2060522100006;Holland, Baklažaan;Puu- ja juurviljad,Köögiviljad;4.49;NaN
+2060522300000;Hispaania, Oranž paprika, I klass;Puu- ja juurviljad,Köögiviljad;3.89;NaN
+2060522900002;Soome, Kurk pikk;Puu- ja juurviljad,Köögiviljad;2.49;NaN
+2060523200002;Eesti, Nuikapsas;Puu- ja juurviljad,Köögiviljad;1.69;NaN
+2060523400006;Eesti, Küüslauk;Puu- ja juurviljad,Köögiviljad;7.99;NaN
+2060523600000;Poola, Punane kapsas;Puu- ja juurviljad,Köögiviljad;0.89;NaN
+2060524500002;Eesti Luunja pikk kurk kiles;Puu- ja juurviljad,Köögiviljad;4.49;NaN
+2060525000006;Itaalia, Fennel apteegitill kg;Puu- ja juurviljad,Köögiviljad;2.69;NaN
+2060526300006;Eesti, Kapsas;Puu- ja juurviljad,Köögiviljad;0.49;NaN
+2060530100005;Läti, Hiinakapsas;Puu- ja juurviljad,Köögiviljad;1.29;NaN
+2060530600000;Holland, Jääsalat,II klass;Puu- ja juurviljad,Köögiviljad;2.39;NaN
+6415350011141;Soome, Magus paprika 200 g;Puu- ja juurviljad,Köögiviljad;4.99;NaN
+4744117011011;Must küüslauk, 75 g;Puu- ja juurviljad,Köögiviljad;7.59;NaN
+6416332001020;Mahe redise idu, 85g;Puu- ja juurviljad,Köögiviljad;1.99;NaN
+6416332001013;Eesti, Küüslaugu idu 50g;Puu- ja juurviljad,Köögiviljad;2.29;NaN
+4741150000095;Eesti, Hapukapsas jõhvikatega 900g TOPS;Puu- ja juurviljad,Köögiviljad;2.19;NaN
+4742063000769;Pohlasalat 350g;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+2060523500003;Hiina, Küüslauk;Puu- ja juurviljad,Köögiviljad;3.89;NaN
+6416332001006;Mahe idutrio, 150 g;Puu- ja juurviljad,Köögiviljad;1.99;NaN
+6414894500630;RAINBOW, Keedetud maisitõlvikud, 450 g;Puu- ja juurviljad,Köögiviljad;1.79;NaN
+8718366141511;Peruu, Suhkruhernes, 150 g;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+2060580900006;Eesti, Peipsi hapukurk;Puu- ja juurviljad,Köögiviljad;4.39;NaN
+6414894501255;RAINBOW, Küüslauk, 100 g;Puu- ja juurviljad,Köögiviljad;0.79;NaN
+4742374000045;MAHE TALU, Mahe wok ribad 400g;Puu- ja juurviljad,Köögiviljad;3.59;NaN
+6414893391093;Hispaania, Mahe paprika  mix, I klass, 350 g;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+6414894500197;RAINBOW, Valge sibul, 350g;Puu- ja juurviljad,Köögiviljad;1.39;NaN
+8412187000711;Hispaania, Mahe küüslauk, 100 g;Puu- ja juurviljad,Köögiviljad;1.09;NaN
+2060541900007;Poola, Pudelkõrvits,  1 kg;Puu- ja juurviljad,Köögiviljad;1.29;NaN
+4740270000404;Küüslaugu küüned, 100 g;Puu- ja juurviljad,Köögiviljad;2.29;NaN
+6414894500203;RAINBOW, Magus sibul, 3 tk;Puu- ja juurviljad,Köögiviljad;1.59;NaN
+4744481010016;Aedviljapuljong vegan 750 ml;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+4744481010030;Kanapuljong,  750 ml;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+4744481010047;Veisepuljong,  750 ml;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+6414894500135;KOTIMAISTA, Jääsalat lõigatud, pakitud, I klass;Puu- ja juurviljad,Köögiviljad;1.89;NaN
+4742063000097;Hapukurk 400g;Puu- ja juurviljad,Köögiviljad;2.59;NaN
+8710147570831;Rainbow brokkoli 300g;Puu- ja juurviljad,Köögiviljad;1.29;NaN
+4741150000132;Eesti, Hapukapsas köömnetega 900 g;Puu- ja juurviljad,Köögiviljad;2.29;NaN
+6414894500210;Maroko, Rainbow kirssploomtomat, I klass, 250g;Puu- ja juurviljad,Köögiviljad;1.29;NaN
+8713037004256;Hispaania, Mahe magus  paprika, I klass, 180 g;Puu- ja juurviljad,Köögiviljad;2.49;NaN
+4740199000912;Eesti, Ahjuköögivili 1 kg vaakum;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+4740669030050;Maroko, Kirss-kobartomat, I klass, 500 g;Puu- ja juurviljad,Köögiviljad;2.59;NaN
+4742798000201;Soolakurk küüslauguga 500 g;Puu- ja juurviljad,Köögiviljad;2.19;NaN
+8716062000996;Holland, Kirsstomat Dulcita I klass 200g;Puu- ja juurviljad,Köögiviljad;3.79;NaN
+2060471900009;Holland, Kobartomat, I klass;Puu- ja juurviljad,Köögiviljad;3.69;NaN
+2060520100008;Maroko, Tomat, I klass;Puu- ja juurviljad,Köögiviljad;1.49;NaN
+2060520900004;Hispaania, Roheline paprika, I klass;Puu- ja juurviljad,Köögiviljad;3.89;NaN
+2060521000000;Hispaania, Kollane paprika, I klass;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+2060521100007;Türgi, Punane paprika, I klass;Puu- ja juurviljad,Köögiviljad;2.49;NaN
+2060521200004;Hispaania, Lillkapsas;Puu- ja juurviljad,Köögiviljad;2.49;NaN
+2060521400008;Türgi, Zukini / suvikõrvits;Puu- ja juurviljad,Köögiviljad;2.59;NaN
+2060521600002;Holland, Punane mugulsibul;Puu- ja juurviljad,Köögiviljad;0.99;NaN
+2060521700009;Poola, Mugulsibul;Puu- ja juurviljad,Köögiviljad;0.59;NaN
+4744481010917;Koorene hakklihakaste 350 ml;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+4744481010979;Koorene tomatikaste, vegan 230 ml;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+4742368001812;Kadarbiku Vinegrett 500G;Puu- ja juurviljad,Köögiviljad;2.29;NaN
+4744481011228;Pruun praekaste 230ml;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+6430080550036;Kasvimaa beebikartulid 500g;Puu- ja juurviljad,Köögiviljad;3.49;NaN
+4740669030012;Hispaania, Punane  kirsstomat, I klass, 250g;Puu- ja juurviljad,Köögiviljad;0.99;NaN
+8718963051329;Paksoi Shangai pakis;Puu- ja juurviljad,Köögiviljad;2.89;NaN
+2060604700001;Soome, Kurk kõver;Puu- ja juurviljad,Köögiviljad;1.99;NaN
+4742368001539;Ahjusegu 700 g;Puu- ja juurviljad,Köögiviljad;2.19;NaN
+4744481010078;Punase veini kaste 230ml;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+4742063004408;Jõhvikasalat chilliga 250g;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+4742063004743;Viibergi hapukapsas porgandiga 650g;Puu- ja juurviljad,Köögiviljad;2.29;NaN
+6416075931073;Soome, Pärltomat 200G I klass;Puu- ja juurviljad,Köögiviljad;4.29;NaN
+6416332001501;Mahe mungoaidu, 150 g;Puu- ja juurviljad,Köögiviljad;1.99;NaN
+4742981010239;Mahe mugulsibula mix 500G;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+4744481010412;Aedviljapuljong, 350ml;Puu- ja juurviljad,Köögiviljad;2.89;NaN
+4744481010429;Kalapuljong, 350 ml;Puu- ja juurviljad,Köögiviljad;2.89;NaN
+4744481010436;Kanapuljong, 350 ml;Puu- ja juurviljad,Köögiviljad;2.89;NaN
+4744481010443;Veisepuljong, 350 ml;Puu- ja juurviljad,Köögiviljad;2.89;NaN
+4744481010450;Aasia puljong, 350 ml;Puu- ja juurviljad,Köögiviljad;2.89;NaN
+4742981010598;Mahe mugulsibul 500g;Puu- ja juurviljad,Köögiviljad;3.59;NaN
+6430064550007;Soome, Nams Kobartomat I klass karbis 500 g;Puu- ja juurviljad,Köögiviljad;5.29;NaN
+4740608085899;Mini Rooma salat 230 g;Puu- ja juurviljad,Köögiviljad;3.09;NaN
+4744664010017;Peipsi hapukurk, 400 g;Puu- ja juurviljad,Köögiviljad;1.89;NaN
+4744481014403;FS GOODS, Basiiliku salatikaste, 200 ml;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+2060522000009;Poola, Porrulauk;Puu- ja juurviljad,Köögiviljad;2.29;NaN
+4740175000233;Hapukapsas porgandiga pakitud 500 g;Puu- ja juurviljad,Köögiviljad;1.69;NaN
+6406510093848;Hetki Soome salatisegu,  150 g;Puu- ja juurviljad,Köögiviljad;2.19;NaN
+6415712904913;Kotimaista  salatisegu 180 g, tükeldatud salat: jääsalat, valge;Puu- ja juurviljad,Köögiviljad;2.59;NaN
+6415712905729;Rainbow  peresalatisegu 250 g, pestud tükeldatud peasalat, ro...;Puu- ja juurviljad,Köögiviljad;2.39;NaN
+4744481010085;Kookose-karri kaste, 350 ml;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+4744481010191;Koorene praekaste Bechanel 350 ml;Puu- ja juurviljad,Köögiviljad;3.49;NaN
+4742063001001;Hapukurgiviilud küüslauguga 400 g;Puu- ja juurviljad,Köögiviljad;2.79;NaN
+4742023130512;Brokkoli võrsed 40g;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+4744481010108;Koorene kukeseene kaste 350 ml;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+4742063004019;Eesti, Koduselt marineeritud küüslauk plasttops 120g;Puu- ja juurviljad,Köögiviljad;1.99;NaN
+2060157100006;Soome, Tšillipaprika mix keskmise tugevusega;Puu- ja juurviljad,Köögiviljad;35.99;NaN
+2060158700007;Eesti, Peipsi sibul;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+4742798000331;Soolakurk punase tšilliga 300 g;Puu- ja juurviljad,Köögiviljad;2.19;NaN
+4742063000981;Marineeritud kurk 400g;Puu- ja juurviljad,Köögiviljad;2.79;NaN
+6406510093626;Hetki värviline wokimix 300 g;Puu- ja juurviljad,Köögiviljad;2.99;NaN
+4744481010283;Koorene piprakaste 230 ml;Puu- ja juurviljad,Köögiviljad;3.49;NaN
+4744481010207;Koorene sidrunikaste 230 ml;Puu- ja juurviljad,Köögiviljad;3.49;NaN
+4745011005618;KRIMCHI, Peakapsa Kimchi 400 g;Puu- ja juurviljad,Köögiviljad;8.89;NaN
+4745011005632;KRIMCHI, Hiinakapsa Kimchi 400 g;Puu- ja juurviljad,Köögiviljad;8.89;NaN
+4744323010020;Rooma salat potis;Puu- ja juurviljad,Köögiviljad;1.99;NaN
+4745011005656;KRIMCHI, Suitsune kimchi lillkapsaga 400 g;Puu- ja juurviljad,Köögiviljad;8.89;NaN
+4745011005625;KRIMCHI, Eriti vürtsikas peakapsa Kimchi 400 g;Puu- ja juurviljad,Köögiviljad;8.89;NaN
+4740199000073;Holland, Shalotsibul 250g;Puu- ja juurviljad,Köögiviljad;1.29;NaN
+4744332010431;Lilla kolrabi võrsed potis;Puu- ja juurviljad,Köögiviljad;1.69;NaN
+4744332010486;Hernevõrsed potis;Puu- ja juurviljad,Köögiviljad;1.69;NaN
+4745011005649;Eriti vürtsikas hiinakapsa Kimchi 400 g;Puu- ja juurviljad,Köögiviljad;8.89;NaN
+2060526600007;Kapsas varajane kg;Puu- ja juurviljad,Köögiviljad;1.49;NaN
+752794998604;Küüslauk 200g;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+4740608060087;Soome, Kotimaista Kirsstomat 250G I kl;Puu- ja juurviljad,Köögiviljad;3.99;NaN
+4740426000203;Hapukapsas Jaagumäe kg;Puu- ja juurviljad,Köögiviljad;1.89;NaN
+6416046151004;JÄRVIKYLÄ, Pehtoorin salat;Puu- ja juurviljad,Köögiviljad;2.09;NaN

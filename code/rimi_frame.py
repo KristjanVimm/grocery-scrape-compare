@@ -1,13 +1,13 @@
 
 import pandas as pd
+import os
 
 # this code takes a .txt file of rimi info and creates a neat .csv file with irrelevant categories sorted out
 
-# a test of branching into main
+file = 'rimi01.11'
 
-file = 'rimi01.10'
-
-scrape = open("C:/Users/krist/PycharmProjects/pythonProject/kraapsud/kraap_" + file + ".txt", encoding="UTf-8")
+path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
+scrape = open(os.path.join(path, 'rimi_scrapes', 'scrape_'+file+'.txt'), encoding="UTF-8")
 raw_lines = scrape.readlines()
 scrape.close()
 
@@ -42,4 +42,4 @@ frame = frame[frame.category.str.startswith(unwanted_cat) == False]
 
 frame = frame.sort_values(by="price")
 
-frame.to_csv(path_or_buf="C:/Users/krist/PycharmProjects/pythonProject/frameid/frame_"+file+".csv")
+frame.to_csv(path_or_buf=os.path.join(path, 'rimi_frames', 'frame_'+file+'.csv'))
