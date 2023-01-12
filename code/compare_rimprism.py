@@ -2,11 +2,13 @@
 from datetime import datetime
 import pandas as pd
 import numpy as np
+import os
 
 print(datetime.now())
 
 # seemingly only got a 30% decrease in runtime for global_cat: weird
 # maybe troso is too big (almost a third of the data)
+# prisma, some chocolate bars and baby products have category 'zero' - why?
 
 
 def compare(desc, pot_match):
@@ -31,20 +33,27 @@ def write_to_file(all_scores_def):
     all_scores_df = pd.DataFrame(all_scores_def)
     all_scores_df.columns = ['desc', 'score', 'match_desc']
     all_scores_df = all_scores_df.sort_values(by='score', ascending=False)
-    all_scores_df.to_csv(path_or_buf="C:/Users/krist/PycharmProjects/prisma/skoorid/score" + end_file + ".csv")
+    all_scores_df.to_csv(path_or_buf=os.path.join(path, 'scores', 'frame_' + end_file + '.csv'))
 
 
+beg_filerimi = "rimi01.12cf"
 beg_filepris = "prisma01.05cf"
-beg_filerimi = "rimi01.09foodcf"
 file_nr = input('Enter file nr: ')
 end_file = "rimiVSpris"+file_nr
 
-dfrimi = pd.read_csv("C:/Users/krist/PycharmProjects/prisma/frameid/frame_" + beg_filerimi + ".csv", index_col=0)
-dfpris = pd.read_csv("C:/Users/krist/PycharmProjects/prisma/frameid/frame_" + beg_filepris + ".csv")
+path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
+
+dfrimi = pd.read_csv(os.path.join(path, 'rimi_frames', 'frame_' + beg_filerimi + '.csv'), index_col=0, dtype={'id': 'Int32'})
+dfpris = pd.read_csv(os.path.join(path, 'prisma_frames', 'frame_' + beg_filepris + '.csv'), index_col=0, dtype={'id': 'Int64'})
 
 # global_cat = {'puju': [], 'liha': [], 'singid': [], 'kala': [], 'piim': [], 'munad': [], 'juust': [], 'valmis': [],
 #               'sai': [], 'troso': [], 'alko': [], 'joogid': [], 'tiko': [], 'snäkid': [], 'lapsed': [], 'loomad': []}
 
+global_cat_rimi = {'puju': ['SH-12'], 'liha': ['SH-8-14', 'SH-8-9', 'SH-8-21', 'SH-8-2', 'SH-8-30'], 'singid':
+    ['SH-8-11', 'SH-8-1', 'SH-8-12', 'SH-8-50'], 'kala': ['SH-8-20', 'SH-8-3', 'SH-8-16'], 'piim':
+    ['SH-11-8', 'SH-11-1', 'SH-11-4', 'SH-11-5', 'SH-11-6', 'SH-11-9', 'SH-11-2'], 'munad': ['SH-11-7'],
+    'juust': ['SH-11-3'], 'valmis': ["SH-16"], 'sai': ['SH-6'], 'troso': ["SH-13", '10-54'], 'alko': ["SH-1"],
+    'joogid': ["SH-3"], 'tiko': ["SH-4"], 'snäkid': ["SH-9"], 'lapsed': ["SH-5"], 'loomad': ["SH-7"]}
 global_cat_prisma = {'puju': ['Puu- ja juurviljad'],
                      'liha': ['Liha,Hakkliha', 'Liha,Hakkliha pooltooted', 'Liha,Koduloomaliha', 'Liha,Linnuliha',
                               'Liha,Sašlõkk', 'Liha,Teeninduslett, lihatooted', 'Liha,Muud toiduvalmistamise lihatooted',
@@ -78,13 +87,6 @@ global_cat_prisma = {'puju': ['Puu- ja juurviljad'],
                                 'Maiustused, jäätised, snäkid,Šokolaaditahvlid',
                                 'Maiustused, jäätised, snäkid,Muud šokolaaditooted'],
                      'lapsed': ['Lapsed'], 'loomad': ['Lemmikloomad']} # maybe read these from a file
-global_cat_rimi = {'puju': ['SH-12'], 'liha': ['SH-8-14', 'SH-8-9', 'SH-8-21', 'SH-8-2', 'SH-8-30'], 'singid':
-    ['SH-8-11', 'SH-8-1', 'SH-8-12', 'SH-8-50'], 'kala': ['SH-8-20', 'SH-8-3', 'SH-8-16'], 'piim':
-    ['SH-11-8', 'SH-11-1', 'SH-11-4', 'SH-11-5', 'SH-11-6', 'SH-11-9', 'SH-11-2'], 'munad': ['SH-11-7'],
-    'juust': ['SH-11-3'], 'valmis': ["SH-16"], 'sai': ['SH-6'], 'troso': ["SH-13", '10-54'], 'alko': ["SH-1"],
-    'joogid': ["SH-3"], 'tiko': ["SH-4"], 'snäkid': ["SH-9"], 'lapsed': ["SH-5"], 'loomad': ["SH-7"]}
-
-# prisma, some chocolate bars and baby products have category 'zero' - why?
 
 dfrimi_global = apply_global_cat(global_cat_rimi, dfrimi)
 dfprisma_global = apply_global_cat(global_cat_prisma, dfpris)
