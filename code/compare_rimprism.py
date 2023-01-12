@@ -49,11 +49,11 @@ dfpris = pd.read_csv(os.path.join(path, 'prisma_frames', 'frame_' + beg_filepris
 # global_cat = {'puju': [], 'liha': [], 'singid': [], 'kala': [], 'piim': [], 'munad': [], 'juust': [], 'valmis': [],
 #               'sai': [], 'troso': [], 'alko': [], 'joogid': [], 'tiko': [], 'snäkid': [], 'lapsed': [], 'loomad': []}
 
-global_cat_rimi = {'puju': ['SH-12'], 'liha': ['SH-8-14', 'SH-8-9', 'SH-8-21', 'SH-8-2', 'SH-8-30'], 'singid':
-    ['SH-8-11', 'SH-8-1', 'SH-8-12', 'SH-8-50'], 'kala': ['SH-8-20', 'SH-8-3', 'SH-8-16'], 'piim':
-    ['SH-11-8', 'SH-11-1', 'SH-11-4', 'SH-11-5', 'SH-11-6', 'SH-11-9', 'SH-11-2'], 'munad': ['SH-11-7'],
-    'juust': ['SH-11-3'], 'valmis': ["SH-16"], 'sai': ['SH-6'], 'troso': ["SH-13", '10-54'], 'alko': ["SH-1"],
-    'joogid': ["SH-3"], 'tiko': ["SH-4"], 'snäkid': ["SH-9"], 'lapsed': ["SH-5"], 'loomad': ["SH-7"]}
+global_cat_rimi = {'puju': ['SH-12'], 'liha': ['SH-8-14', 'SH-8-9', 'SH-8-21', 'SH-8-2', 'SH-8-30'],
+                   'singid': ['SH-8-11', 'SH-8-1', 'SH-8-12', 'SH-8-50'], 'kala': ['SH-8-20', 'SH-8-3', 'SH-8-16'],
+                   'piim': ['SH-11-8', 'SH-11-1', 'SH-11-4', 'SH-11-5', 'SH-11-6', 'SH-11-9', 'SH-11-2'], 'munad': ['SH-11-7'],
+                   'juust': ['SH-11-3'], 'valmis': ["SH-16"], 'sai': ['SH-6'], 'troso': ["SH-13", '10-54'], 'alko': ["SH-1"],
+                   'joogid': ["SH-3"], 'tiko': ["SH-4"], 'snäkid': ["SH-9"], 'lapsed': ["SH-5"], 'loomad': ["SH-7"]}
 global_cat_prisma = {'puju': ['Puu- ja juurviljad'],
                      'liha': ['Liha,Hakkliha', 'Liha,Hakkliha pooltooted', 'Liha,Koduloomaliha', 'Liha,Linnuliha',
                               'Liha,Sašlõkk', 'Liha,Teeninduslett, lihatooted', 'Liha,Muud toiduvalmistamise lihatooted',
@@ -86,7 +86,7 @@ global_cat_prisma = {'puju': ['Puu- ja juurviljad'],
                                 'Maiustused, jäätised, snäkid,Šokolaadibatoonid',
                                 'Maiustused, jäätised, snäkid,Šokolaaditahvlid',
                                 'Maiustused, jäätised, snäkid,Muud šokolaaditooted'],
-                     'lapsed': ['Lapsed'], 'loomad': ['Lemmikloomad']} # maybe read these from a file
+                     'lapsed': ['Lapsed'], 'loomad': ['Lemmikloomad']}  # maybe read these from a file
 
 dfrimi_global = apply_global_cat(global_cat_rimi, dfrimi)
 dfprisma_global = apply_global_cat(global_cat_prisma, dfpris)

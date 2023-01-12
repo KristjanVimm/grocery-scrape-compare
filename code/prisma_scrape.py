@@ -19,7 +19,7 @@ def write_to_file(all_info_list):
     into_file.close()
 
 
-dt = datetime.now() # prints the current time in the beginning and in the end to see, how fast the program is
+dt = datetime.now()  # prints the current time in the beginning and in the end to see, how fast the program is
 print(dt)
 file = 'prisma'+dt.strftime('%m')+'.'+dt.strftime('%d')
 url = 'https://www.prismamarket.ee'
