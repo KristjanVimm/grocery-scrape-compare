@@ -4,7 +4,7 @@ import os
 
 # this code takes a .txt file of rimi info and creates a neat .csv file with irrelevant categories sorted out
 
-file = 'rimi01.12'
+file = 'rimi01.04'
 
 path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 scrape = open(os.path.join(path, 'rimi_scrapes', 'scrape_'+file+'.txt'), encoding="UTF-8")

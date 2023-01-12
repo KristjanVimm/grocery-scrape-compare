@@ -4,7 +4,7 @@ import os
 
 # leaves only the relevant product groups and creates a .csv file
 
-file = "prisma01.12"
+file = "prisma01.04"
 
 path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 

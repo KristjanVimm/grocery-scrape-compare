@@ -4,7 +4,7 @@ import os
 
 
 def stripdown(desc):
-    desc = desc.replace('/', ' ', 4)  # because of ice creams like '80ml/65g'
+    desc = desc.replace('/', ' ', 4).lower()  # because of ice creams like '80ml/65g'  # because '200g' != '200G'
     words = desc.split(' ')
     words.append('')  # because we need to look at k and k+1, but want the last word aswell
     for k in range(0, len(words) - 1, 1):
@@ -52,8 +52,8 @@ def unit_conversion(quantity, unit):
     return str(converted_quant)+converted_unit
 
 
-beg_filerimi = "rimi01.12"
-beg_filepris = "prisma01.12"
+beg_filerimi = "rimi01.04"
+beg_filepris = "prisma01.04"
 end_filerimi = beg_filerimi+"cf"
 end_filepris = beg_filepris+"cf"
 

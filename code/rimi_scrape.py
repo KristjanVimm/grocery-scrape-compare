@@ -11,6 +11,8 @@ import os
 
 def write_to_file(raw_info):
     collected_info = ''.join(raw_info)
+    collected_info.replace('  ', ' ')
+    collected_info.replace('!', '')
     path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'rimi_scrapes', 'scrape_' + file + '.txt'))
     write_file = open(path, 'w', encoding='UTF_8')
     write_file.write(collected_info)

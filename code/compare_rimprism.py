@@ -11,33 +11,54 @@ print(datetime.now())
 # prisma, some chocolate bars and baby products have category 'zero' - why?
 
 
-def compare(desc, pot_match):
+def apply_global_cat(global_cat_dict, df_w_clobal_cat):
+    conditions = []
+    for value in global_cat_dict.values():
+        conditions.append(df_w_clobal_cat.category.str.startswith(tuple(value)) == True)
+    df_w_clobal_cat['category'] = np.select(conditions, list(global_cat_dict.keys()))
+    return df_w_clobal_cat
+
+
+def compare_words(desc, pot_match):
     score = 0
     desc_words = desc.split(' ')
     pot_match_words = pot_match.split(' ')
     for word in desc_words:
         if word in pot_match_words:
             score += 1
+            pot_match_words.remove(word)
     return score/len(desc_words)
 
 
-def apply_global_cat(global_cat_dict, df_w_clobal_cat):
-    conditions = []
-    for value in global_cat_dict.values():
-        conditions.append(df_w_clobal_cat.category.str.startswith(tuple(value)) == True)
-    df_w_clobal_cat['category'] = np.select(conditions, list(global_cat_rimi.keys()))
-    return df_w_clobal_cat
+def compare_letters(desc, pot_match):
+    # if len(desc) < len(pot_match) but len(desc.split(' ')) > len(pot_match.split(' ')) then fishy
+    score = 0
+    numbers = []
+    desc_wo_spaces = desc.replace(' ', '')
+    pot_match_wo_spaces = pot_match.replace(' ', '')  # vesi gaasiga ja gaasita ei ole sarnased!
+    for letter in desc_wo_spaces:
+        if letter in pot_match_wo_spaces:
+            score += 1
+            pot_match_wo_spaces = pot_match_wo_spaces.replace(letter, '', 1)
+        elif letter.isnumeric():
+            numbers.append(letter)
+    if len(numbers) != 0:
+        for letter in pot_match_wo_spaces:
+            if letter.isnumeric():
+                score = -score  # check whether any false negatives end up here |...|?
+                break
+    return score/len(desc_wo_spaces)
 
 
 def write_to_file(all_scores_def):
     all_scores_df = pd.DataFrame(all_scores_def)
     all_scores_df.columns = ['desc', 'score', 'match_desc']
     all_scores_df = all_scores_df.sort_values(by='score', ascending=False)
-    all_scores_df.to_csv(path_or_buf=os.path.join(path, 'scores', 'frame_' + end_file + '.csv'))
+    all_scores_df.to_csv(path_or_buf=os.path.join(path, 'scores', 'score_' + end_file + '.csv'))
 
 
-beg_filerimi = "rimi01.12cf"
-beg_filepris = "prisma01.05cf"
+beg_filerimi = "rimi01.04cf"
+beg_filepris = "prisma01.04cf"
 file_nr = input('Enter file nr: ')
 end_file = "rimiVSpris"+file_nr
 
@@ -95,7 +116,7 @@ rimi_desc = dfrimi_global['desc']
 
 all_scores = []
 
-for i in range(0, len(rimi_desc)):
+for i in range(0, 3001):
     scores = []
     if i % 50 == 0:
         print(i)
@@ -103,15 +124,15 @@ for i in range(0, len(rimi_desc)):
     prisma_only_current_cat = dfprisma_global[dfprisma_global.category.str.startswith(current_cat_name)]
     for j in range(0, len(prisma_only_current_cat)):
         prisma_current_desc = prisma_only_current_cat.iloc[j]['desc']
-        two_way_score = (compare(rimi_desc[i], prisma_current_desc) +
-                         compare(prisma_current_desc, rimi_desc[i])) / 2
+        two_way_score = round((compare_letters(rimi_desc[i], prisma_current_desc) +
+                               compare_letters(prisma_current_desc, rimi_desc[i])) / 2, 2)
         couple = (two_way_score, prisma_current_desc)
         scores.append(couple)
     scores_df = pd.DataFrame(data=scores)
     scores_df.columns = ['score', 'desc']
     scores_sorted = scores_df.sort_values(by='score', ascending=False)
     all_scores.append([rimi_desc[i], scores_sorted.iloc[0][0], scores_sorted.iloc[0][1]])
-    if i % 2000 == 0:
+    if i % 1000 == 0:
         write_to_file(all_scores)
 
 write_to_file(all_scores)
