@@ -13,13 +13,16 @@ def write_to_file(all_info_list):
     all_info_str = ''.join(all_info_list)
     all_info_str.replace(' &amp; ', '&')
     all_info_str.replace('&amp;', '&')
+    all_info_str.replace('   ', ' ')
+    all_info_str.replace('  ', ' ')
+    all_info_str.replace('!', '')
     path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'prisma_scrapes', 'scrape_' + file + '.txt'))
     into_file = open(path, 'w', encoding="UTF_8")
     into_file.write(all_info_str)
     into_file.close()
 
 
-dt = datetime.now() # prints the current time in the beginning and in the end to see, how fast the program is
+dt = datetime.now()  # prints the current time in the beginning and in the end to see, how fast the program is
 print(dt)
 file = 'prisma'+dt.strftime('%m')+'.'+dt.strftime('%d')
 url = 'https://www.prismamarket.ee'
@@ -66,7 +69,7 @@ for group in product_groups:
                     company = item.find(class_="subname").get_text()
                     if company.find(',') != -1:
                         company = company[:company.find(',')]
-                    if len(company) > 0 and company.lower() not in name.lower():
+                    if len(company) > 0 and company.lower() not in name.lower() and not company.lower().startswith('translation'):  # prismabug
                         name = company+', '+name
                 except AttributeError:
                     None # mingi asi puju toodetega?

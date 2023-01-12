@@ -4,7 +4,7 @@ import os
 
 # this code takes a .txt file of rimi info and creates a neat .csv file with irrelevant categories sorted out
 
-file = 'rimi01.11'
+file = 'rimi01.04'
 
 path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 scrape = open(os.path.join(path, 'rimi_scrapes', 'scrape_'+file+'.txt'), encoding="UTF-8")
@@ -35,11 +35,11 @@ data = {"id": id_list, "desc": desc_list, "category": cat_list, "price": price_l
         "old_price": old_price_list, "discount_type": discount_type_list}
 
 frame = pd.DataFrame(data=data)
-frame = frame.reset_index(drop=True)
 
 unwanted_cat = ("SH-2", "SH-10", "SH-18", "SH-17", "SH-12-10")
 frame = frame[frame.category.str.startswith(unwanted_cat) == False]
 
 frame = frame.sort_values(by="price")
+frame = frame.reset_index(drop=True)
 
 frame.to_csv(path_or_buf=os.path.join(path, 'rimi_frames', 'frame_'+file+'.csv'))
