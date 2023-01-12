@@ -1,5 +1,6 @@
 
 import pandas as pd
+import os
 
 
 def stripdown(desc):
@@ -51,20 +52,22 @@ def unit_conversion(quantity, unit):
     return str(converted_quant)+converted_unit
 
 
-beg_filerimi = "rimi01.04food"
-beg_filepris = "prisma01.05"
+beg_filerimi = "rimi01.12"
+beg_filepris = "prisma01.12"
 end_filerimi = beg_filerimi+"cf"
 end_filepris = beg_filepris+"cf"
 
-dfpris = pd.read_csv("C:/Users/krist/PycharmProjects/prisma/frameid/frame_" + beg_filepris + ".csv", index_col=0)
-dfrimi = pd.read_csv("C:/Users/krist/PycharmProjects/pythonProject/frameid/frame_" + beg_filerimi + ".csv") # index_col=0)
+path = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
-for i in range(0, len(dfrimi['nimi']), 1):
-    dfrimi.at[i, 'nimi'] = stripdown(dfrimi.iloc[i, 2])
+dfrimi = pd.read_csv(os.path.join(path, 'rimi_frames', 'frame_' + beg_filerimi + '.csv'), index_col=0, dtype={'id': 'Int32'})
+dfpris = pd.read_csv(os.path.join(path, 'prisma_frames', 'frame_' + beg_filepris + '.csv'), index_col=0, dtype={'id': 'Int64'})
 
-for i in range(0, len(dfpris['desc.']), 1):
-    dfpris.at[i, 'desc.'] = stripdown(dfpris.iloc[i, 1])
+for i in range(0, len(dfrimi['desc'])):
+    dfrimi.at[i, 'desc'] = stripdown(dfrimi.iloc[i, 1])
+
+for i in range(0, len(dfpris['desc'])):
+    dfpris.at[i, 'desc'] = stripdown(dfpris.iloc[i, 1])
 
 
-dfrimi.to_csv(path_or_buf="C:/Users/krist/PycharmProjects/prisma/frameid/frame_"+end_filerimi + ".csv")
-dfpris.to_csv(path_or_buf="C:/Users/krist/PycharmProjects/prisma/frameid/frame_"+end_filepris + ".csv")
+dfrimi.to_csv(path_or_buf=os.path.join(path, 'rimi_frames', 'frame_' + end_filerimi + '.csv'))
+dfpris.to_csv(path_or_buf=os.path.join(path, 'prisma_frames', 'frame_' + end_filepris + '.csv'))

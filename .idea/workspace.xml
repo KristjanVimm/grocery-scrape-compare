@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22305e0e-6abf-4e76-b262-678b2c94d128" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/prisma_frames/frame_prisma01.12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma_frames/frame_prisma01.12cf.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma_scrapes/scrape_prisma01.12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rimi_frames/frame_rimi01.12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rimi_frames/frame_rimi01.12cf.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rimi_scrapes/scrape_rimi01.12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scores/frame_rimiVSpris4.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/compare_rimprism.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/compare_rimprism.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pre-config.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pre-config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/prisma_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/prisma_frame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/prisma_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/prisma_scrape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/rimi_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/rimi_frame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +60,49 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.prisma_frame">
+  <component name="RunManager" selected="Python.compare_rimprism">
+    <configuration name="compare_rimprism" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="grocery-scrape-compare" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/compare_rimprism.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre-config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="grocery-scrape-compare" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/pre-config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="prisma_frame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="grocery-scrape-compare" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,33 +166,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rimi_scrape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="grocery-scrape-compare" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/rimi_scrape.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.compare_rimprism" />
+        <item itemvalue="Python.pre-config" />
+        <item itemvalue="Python.rimi_frame" />
         <item itemvalue="Python.prisma_frame" />
         <item itemvalue="Python.prisma_scrape" />
-        <item itemvalue="Python.rimi_frame" />
-        <item itemvalue="Python.rimi_scrape" />
       </list>
     </recent_temporary>
   </component>

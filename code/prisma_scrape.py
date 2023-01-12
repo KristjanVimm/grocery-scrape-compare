@@ -66,7 +66,7 @@ for group in product_groups:
                     company = item.find(class_="subname").get_text()
                     if company.find(',') != -1:
                         company = company[:company.find(',')]
-                    if len(company) > 0 and company.lower() not in name.lower():
+                    if len(company) > 0 and company.lower() not in name.lower() and not company.lower().startswith('translation'):  # prismabug
                         name = company+', '+name
                 except AttributeError:
                     None # mingi asi puju toodetega?
